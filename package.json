@@ -84,7 +84,7 @@
     "build": "hugo --gc --minify",
     "build:css": "tailwindcss -i ./themes/careercanvas/assets/css/main.css -o ./themes/careercanvas/static/css/main.css --minify",
     "watch:css": "tailwindcss -i ./themes/careercanvas/assets/css/main.css -o ./themes/careercanvas/static/css/main.css --watch",
-    "postinstall": "node copy-gsap.js",
+
     "install:gsap": "npm install gsap@^3.13.0"
   },
   "repository": {
