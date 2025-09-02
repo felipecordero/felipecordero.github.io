@@ -13,30 +13,7 @@ module.exports = {
         sans: ['"Nunito Sans"', 'sans-serif'],
         heading: ['Montserrat', 'sans-serif'],
       },
-      keyframes: {
-        'fade-in-up': {
-          '0%': { opacity: '0', transform: 'translateY(30px)' },
-          '100%': { opacity: '1', transform: 'translateY(0)' },
-        },
-        'float': {
-          '0%, 100%': { transform: 'translateY(0px)' },
-          '50%': { transform: 'translateY(-10px)' },
-        },
-        'glow': {
-          '0%, 100%': { boxShadow: '0 0 20px currentColor' },
-          '50%': { boxShadow: '0 0 30px currentColor' },
-        },
-        'typewriter': {
-          '0%': { width: '0' },
-          '100%': { width: '100%' },
-        },
-      },
-      animation: {
-        'fade-in-up': 'fade-in-up 0.6s ease-out forwards',
-        'float': 'float 3s ease-in-out infinite',
-        'glow': 'glow 2s ease-in-out infinite',
-        'typewriter': 'typewriter 3s steps(40, end)',
-      },
+
     },
   },
   plugins: [
