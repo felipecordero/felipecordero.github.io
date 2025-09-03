@@ -1,5 +1,5 @@
 ---
-title: "Technical Stack"
+title: "Tech Stack"
 type: "homepage"
 intro: >-
   Technical expertise spanning software development, AI/ML, and engineering technologies.
@@ -36,7 +36,7 @@ technical_groups:
     skills:
       - icon: "database"
         name: "SQL"
-        devicon_name: "mysql"
+        devicon_name: "azuresqldatabase"
       - icon: "server"
         name: "NoSQL"
 
@@ -151,6 +151,7 @@ technical_groups:
         devicon_name: "mongodb"
       - icon: "database"
         name: "Supabase"
+        devicon_name: "supabase"
       - icon: "fire"
         name: "Firebase"
         devicon_name: "firebase"
