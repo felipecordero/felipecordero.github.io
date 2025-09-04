@@ -57,17 +57,13 @@ defaultContentLanguageInSubdir = false
 
 [params]
 name = "Felipe Cordero"
-tagline = "Engineer. Coder. Problem Solver."
-location = "Montréal, Canada"
 email = "mail@felipecordero.com"
 profile_image = "/images/felipe-cordero-profile.jpg"
-description = "Structural engineer and software developer expanding into AI/ML to solve complex engineering and automation challenges."
 author = "Felipe Cordero"
 
 og_image = "images/felipecordero-og.png"
 
-hero_description = "Structural engineer and software developer with 14+ years in Architecture, Engineering, and Construction (AEC), expanding expertise with AI/ML to build intelligent solutions for complex engineering problems."
-hero_location = "Montréal, Canada"
+description = "Structural engineer and software developer expanding into AI/ML to solve complex engineering and automation challenges."
 
 linkedin_url = "https://www.linkedin.com/in/felipe-cordero-osorio"
 linkedin_text = "linkedin.com/in/felipe-cordero-osorio"
@@ -76,13 +72,6 @@ github_text = "github.com/felipecordero"
 
 copyright = "© 2025 | Felipe Cordero"
 
-collab_tags = [
-  "AI/ML Solutions",
-  "Engineering Software",
-  "R&D & Innovation",
-  "Technical Leadership",
-  "Construction Tech"
-]
 
 resume_url_en = "/files/Felipe_Cordero_CV_English_version.pdf"
 resume_url_fr = "/files/Felipe_Cordero_CV_French_version.pdf"
@@ -121,81 +110,9 @@ sectionPagesMenu = 'main'
 
 # Branding Configuration - Savannah King
 [params.colors]
-  main_color   = "#A97142"  # Lion Brown, warm and dominant
-  second_color = "#2E2E2E"  # Dark Charcoal, authority
-  third_color  = "#E6B325"  # Golden Mane, majesty and power
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  # main_color   = "#A97142"  # Lion Brown, warm and dominant
+  # second_color = "#2E2E2E"  # Dark Charcoal, authority
+  # third_color  = "#E6B325"  # Golden Mane, majesty and power
+  main_color   = "#095BB0"  # Slightly Darker LinkedIn Blue, professional and trustworthy
+  second_color = "#004182"  # Darker Blue, for depth and sophistication
+  third_color  = "#8C8C8C"  # Neutral Gray, for balance and modernity
