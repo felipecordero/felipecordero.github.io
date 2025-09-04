@@ -1,49 +1,49 @@
 ---
-title: "About"
+title: "À propos"
 type: "homepage"
 featured_image: "/images/felipe-cordero-profile.jpeg"
 intro: >-
-  Hi! I'm Felipe Cordero, a **structural engineer** 🏗️ and **software developer** 💻 with **14+ years** in AEC, now expanding my expertise into **AI/ML** 🤖. My journey has taken me from **Chile to Montréal**, where I combine traditional engineering with modern technology to solve complex problems in engineering and automation. Recently, I was honored with the **Academic Excellence Scholarship** (Air Canada, Collège LaSalle Montréal, 2025) 🏆 for my achievements in AI/ML studies.
+  Bonjour ! Je suis Felipe Cordero, **ingénieur structure** 🏗️ et **développeur logiciel** 💻 avec **plus de 14 ans** d'expérience dans l'AEC. J'élargis actuellement mon expertise en **IA/ML** 🤖. Mon parcours m'a conduit du **Chili à Montréal**, où je combine l'ingénierie traditionnelle et les technologies modernes pour résoudre des problèmes complexes d'ingénierie et d'automatisation. J'ai récemment reçu la **Bourse d'excellence académique** (Air Canada, Collège LaSalle Montréal, 2025) 🏆 pour mes réalisations en IA/ML.
 
 study: >-
-  Currently based in **Montréal** 🇨🇦, I'm deepening my skills in **Artificial Intelligence and Machine Learning** 🤖 at **Collège LaSalle**. I work with **Python** 🐍, **PyTorch**, and **predictive modeling** 📊 to build intelligent systems that bridge the gap between engineering and data science.
+  Basé à **Montréal** 🇨🇦, j'approfondis mes compétences en **Intelligence Artificielle et Apprentissage Automatique** 🤖 au **Collège LaSalle**. Je travaille avec **Python** 🐍, **PyTorch** et le **modélisation prédictive** 📊 pour créer des systèmes intelligents reliant l'ingénierie et la science des données.
 
-passion_title: "What I'm passionate about"
+passion_title: "Ce qui me passionne"
 passion_text: >-
-  I'm passionate about learning and applying **AI to real-world engineering challenges** 🔬. At <a href="https://fireraven.ai" target="_blank" rel="noopener noreferrer"><strong>Fireraven</strong></a>, I help develop a **Low-code Security and Compliance SaaS platform** for **LLM Assistants and Agents** 🛡️. Previously at <a href="https://obralink.com" target="_blank" rel="noopener noreferrer"><strong>ObraLink</strong></a>, I led the development of **autonomous structural analysis tools** and **ML models** for concrete estimation 🏢. My goal is to create **innovative solutions** that have a real impact on the built environment.
+  J'aime apprendre et appliquer l'**IA** aux **défis réels d'ingénierie** 🔬. Chez <a href="https://fireraven.ai" target="_blank" rel="noopener noreferrer"><strong>Fireraven</strong></a>, je participe au développement d'une **plateforme SaaS low-code de sécurité et conformité** pour **assistants et agents LLM** 🛡️. Auparavant chez <a href="https://obralink.com" target="_blank" rel="noopener noreferrer"><strong>ObraLink</strong></a>, j'ai dirigé le développement d'**outils autonomes d'analyse structurelle** et de **modèles de ML** pour l'estimation du béton 🏢.
 
 mix: >-
-  With experience in both **structural engineering** 🏗️ and **software development** 💻, I bring a **unique perspective** to technical challenges. I've led teams in building everything from **physical structures to scalable software systems**, always focusing on **practical, efficient solutions** ⚡. My **international background** and commitment to **continuous learning** drive me to bridge disciplines and deliver value across industries.
+  Fort d'une expérience en **ingénierie structurelle** 🏗️ et en **développement logiciel** 💻, j'apporte une **perspective unique** aux défis techniques. J'ai dirigé des équipes pour construire aussi bien des **structures physiques** que des **systèmes logiciels évolutifs**, avec un focus sur des **solutions pratiques et efficaces** ⚡.
 
 personal: >-
-  Outside work, I enjoy **tennis** 🎾, **cooking** 👨‍🍳, **drums** 🥁, **swimming** 🏊‍♂️, and **photography** 📸. I also **volunteer at LaSalle College**, helping new students settle in and supporting the academic community 🤝.
+  En dehors du travail, j'aime le **tennis** 🎾, la **cuisine** 👨‍🍳, la **batterie** 🥁, la **natation** 🏊‍♂️ et la **photographie** 📸. Je **fais également du bénévolat** au Collège LaSalle pour aider les nouveaux étudiants 🤝.
 
 quickfacts:
   - icon: "briefcase"
-    title: "Current Role"
-    value: "🤖 AI Intern at <a href=\"https://fireraven.ai\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Fireraven</strong></a>"
+    title: "Rôle actuel"
+    value: "🤖 Stagiaire IA chez <a href=\"https://fireraven.ai\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Fireraven</strong></a>"
   - icon: "graduation-cap"
-    title: "Education"
-    value: "🏗️ <a href=\"https://uchile.cl/\" target=\"_blank\" rel=\"noopener noreferrer\">University of Chile</a>, **Bachelor's Degree in Civil Engineering**<br>🤖 <a href=\"https://lasallecollege.lcieducation.com/en\" target=\"_blank\" rel=\"noopener noreferrer\">Collège LaSalle Montréal</a>, **AEC: Artificial Intelligence and Machine Learning**"
+    title: "Éducation"
+    value: "🏗️ <a href=\"https://uchile.cl/\" target=\"_blank\" rel=\"noopener noreferrer\">Université du Chili</a>, **Ingénierie Civile**<br>🤖 <a href=\"https://lasallecollege.lcieducation.com/en\" target=\"_blank\" rel=\"noopener noreferrer\">Collège LaSalle Montréal</a>, **AEC : Intelligence Artificielle et Apprentissage Automatique**"
   - icon: "award"
-    title: "Recent Achievement"
-    value: "🏆 Recipient of the <a href=\"/blog/academic-excellence-recognition/\" target=\"_blank\" rel=\"noopener\">Academic Excellence Scholarship</a> 🎓 sponsored by ✈️ Air Canada at Collège LaSalle Montréal (2025) 🎉"
+    title: "Récent accomplissement"
+    value: "🏆 Lauréat de la <a href=\"/blog/academic-excellence-recognition/\" target=\"_blank\" rel=\"noopener\">Bourse d'excellence académique</a> 🎓 sponsorisée par ✈️ Air Canada au Collège LaSalle Montréal (2025) 🎉"
   - icon: "language"
-    title: "Languages"
+    title: "Langues"
     value: |
-      - 🇬🇧 English (Full Professional)
-      - 🇪🇸 Spanish (Native)
-      - 🇫🇷 French (Intermediate)
+      - 🇬🇧 Anglais (Professionnel complet)
+      - 🇪🇸 Espagnol (Natif)
+      - 🇫🇷 Français (Intermédiaire)
   - icon: "heart"
-    title: "Interests"
+    title: "Centres d'intérêt"
     value: |
-      - ♟️ Chess
+      - ♟️ Échecs
       - 🎾 Tennis
-      - 🚴 Cycling
-      - 🏊‍♂️ Swimming
-      - 👨‍🍳 Cooking
-      - 🥁 Drumming
-      - 📸 Photography
-      - ✈️ Traveling
-      - 📚 Reading
+      - 🚴 Cyclisme
+      - 🏊‍♂️ Natation
+      - 👨‍🍳 Cuisine
+      - 🥁 Batterie
+      - 📸 Photographie
+      - ✈️ Voyage
+      - 📚 Lecture
 ---

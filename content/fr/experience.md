@@ -1,12 +1,12 @@
 ---
-title: "Experience"
+title: "Expérience"
 type: "homepage"
 intro: >-
-  From structural engineering to AI development, building practical tools that bridge traditional engineering with modern technology.
+  De l'ingénierie structurelle au développement IA, création d'outils pratiques reliant l'ingénierie traditionnelle et les technologies modernes.
 
 resume_url_en: "/files/Felipe_Cordero_CV_English_version.pdf"
 resume_url_fr: "/files/Felipe_Cordero_CV_French_version.pdf"
-resume_label: "Download Resume"
+resume_label: "Télécharger le CV"
 
 positions:
   - company: "Fireraven"

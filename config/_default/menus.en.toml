@@ -1,0 +1,42 @@
+[[main]]
+name = "About"
+url = "/#about"
+weight = 2
+
+[[main]]
+name = "Skills"
+url = "/#skills"
+weight = 3
+
+[[main]]
+name = "Experience"
+url = "/#experience"
+weight = 4
+
+[[main]]
+name = "Contact"
+url = "/#contact"
+weight = 5
+
+[[main]]
+name = "Tech Stack"
+url = "/#technical"
+weight = 4.5
+
+[[main]]
+name = "Blog"
+pageRef = "/blog"
+weight = 60
+
+[[main]]
+name = "Engineering"
+pageRef = "/engineering"
+weight = 50
+pre = "engineering"
+
+[[main]]
+name = "Contributions"
+pageRef = "/contributions"
+weight = 51
+pre = "contributions"
+

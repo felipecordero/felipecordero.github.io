@@ -1,0 +1,128 @@
+# Base UI translations (theme-ready). Add/remove keys as needed.
+
+[read_more]
+other = "Read more"
+
+[by]
+other = "by"
+
+[posted_on]
+other = "Posted on"
+
+[tags]
+other = "Tags"
+
+[contact]
+other = "Contact"
+
+[send]
+other = "Send"
+
+[skills]
+other = "Skills"
+
+[experience]
+other = "Experience"
+
+[about]
+other = "About"
+
+[blog]
+other = "Blog"
+
+[engineering]
+other = "Engineering"
+
+[contributions]
+other = "Contributions"
+
+[technical]
+other = "Tech Stack"
+
+[language]
+other = "Language"
+
+[getInTouch]
+other = "Get in Touch"
+
+[learnMore]
+other = "Learn more"
+
+[sendMeAMessage]
+other = "Send me a message"
+
+[contactInformation]
+other = "Contact Information"
+
+[priorityContact]
+other = "Priority Contact"
+
+[aboutMe]
+other = "About Me"
+
+[connectOnLinkedIn]
+other = "Connect on LinkedIn"
+
+[quickFacts]
+other = "Quick Facts"
+
+[more]
+other = "More"
+
+[aboutName]
+other = "About"
+
+[relatedContent]
+other = "Related Content"
+
+[interests]
+other = "Interests"
+
+[languages]
+other = "Languages"
+
+[helloIm]
+other = "Hello, I'm"
+
+[viewCV]
+other = "View CV"
+
+[downloadResume]
+other = "Download Resume"
+
+[keyAchievements]
+other = "Key Achievements"
+
+[demoImageAlt]
+other = "Demo Image"
+
+[galleryNotFound]
+other = "Gallery images not found in"
+
+[viewOnGithub]
+other = "View full source on GitHub"
+
+[iframeIdRequired]
+other = "Error: 'id' parameter is required for the iframe shortcode."
+
+[fullscreen]
+other = "Fullscreen"
+
+[youtubePlayerTitle]
+other = "YouTube video player"
+
+[vimeoPlayerTitle]
+other = "Vimeo video player"
+
+[pageNotFound]
+other = "Page Not Found"
+
+[pageNotFoundSubtitle]
+other = "The page you are looking for does not exist."
+
+[goHome]
+other = "Go home"
+
+[certainlyNotHere]
+other = "Certainly, not here"
+

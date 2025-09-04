@@ -1,0 +1,87 @@
+[language]
+other = "Langue"
+
+[getInTouch]
+other = "Me contacter"
+
+[learnMore]
+other = "En savoir plus"
+
+[sendMeAMessage]
+other = "Envoyez-moi un message"
+
+[contactInformation]
+other = "Informations de contact"
+
+[priorityContact]
+other = "Contact prioritaire"
+
+[aboutMe]
+other = "À propos de moi"
+
+[connectOnLinkedIn]
+other = "Se connecter sur LinkedIn"
+
+[quickFacts]
+other = "Faits rapides"
+
+[more]
+other = "Plus"
+
+[aboutName]
+other = "À propos de"
+
+[relatedContent]
+other = "Contenu associé"
+
+[helloIm]
+other = "Bonjour, je suis"
+
+[viewCV]
+other = "Voir le CV"
+
+[downloadResume]
+other = "Télécharger le CV"
+
+[keyAchievements]
+other = "Réalisations clés"
+
+[demoImageAlt]
+other = "Image de démonstration"
+
+[galleryNotFound]
+other = "Images de la galerie introuvables dans"
+
+[viewOnGithub]
+other = "Voir le code complet sur GitHub"
+
+[iframeIdRequired]
+other = "Erreur : le paramètre 'id' est requis pour le shortcode iframe."
+
+[fullscreen]
+other = "Plein écran"
+
+[youtubePlayerTitle]
+other = "Lecteur vidéo YouTube"
+
+[vimeoPlayerTitle]
+other = "Lecteur vidéo Vimeo"
+
+[pageNotFound]
+other = "Page non trouvée"
+
+[pageNotFoundSubtitle]
+other = "La page que vous recherchez n'existe pas."
+
+[goHome]
+other = "Aller à l'accueil"
+
+[certainlyNotHere]
+other = "Certainement pas ici"
+
+[interests]
+other = "Centres d'intérêt"
+
+[languages]
+other = "Langues"
+

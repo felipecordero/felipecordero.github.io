@@ -2,10 +2,10 @@
 title: "Tech Stack"
 type: "homepage"
 intro: >-
-  Technical expertise spanning software development, AI/ML, and engineering technologies.
+  Expertise technique couvrant le développement logiciel, l'IA/ML et les technologies d'ingénierie.
 
 technical_groups:
-  - title: "Programming Languages"
+  - title: "Langages de programmation"
     icon: "code"
     color_scheme: "blue"
     skills:
@@ -19,7 +19,7 @@ technical_groups:
         name: "TypeScript"
         devicon_name: "typescript"
 
-  - title: "Web Fundamentals"
+  - title: "Fondamentaux Web"
     icon: "globe"
     color_scheme: "blue"
     skills:
@@ -33,7 +33,7 @@ technical_groups:
         name: "Tailwind CSS"
         devicon_name: "tailwindcss"
 
-  - title: "Query Languages"
+  - title: "Langages de requête"
     icon: "database"
     color_scheme: "green"
     skills:
@@ -78,7 +78,7 @@ technical_groups:
         name: "Bootstrap"
         devicon_name: "bootstrap"
 
-  - title: "Data Science"
+  - title: "Science des données"
     icon: "chart-line"
     color_scheme: "orange"
     skills:
@@ -99,7 +99,7 @@ technical_groups:
       - icon: "file-pdf"
         name: "ReportLab"
 
-  - title: "AI/ML Frameworks"
+  - title: "Frameworks IA/ML"
     icon: "brain"
     color_scheme: "purple"
     skills:
@@ -121,7 +121,7 @@ technical_groups:
         name: "Keras"
         devicon_name: "keras"
 
-  - title: "Development Tools"
+  - title: "Outils de développement"
     icon: "tools"
     color_scheme: "green"
     skills:
@@ -165,7 +165,7 @@ technical_groups:
         name: "Hugo"
         devicon_name: "hugo"
 
-  - title: "Databases"
+  - title: "Bases de données"
     icon: "database"
     color_scheme: "blue"
     skills:
@@ -188,7 +188,7 @@ technical_groups:
         name: "Firebase"
         devicon_name: "firebase"
 
-  - title: "Engineering Software"
+  - title: "Logiciels d'ingénierie"
     icon: "building"
     color_scheme: "red"
     skills:

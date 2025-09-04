@@ -1,16 +1,16 @@
 +++
 title = "Contributions"
-description = "Explore my contributions to education, community, and open-source projects."
+description = "Découvrez mes contributions à l'éducation, à la communauté et aux projets open-source."
 type = "list"
 # menu = "main"
 weight = 51
 +++
 
-Welcome to my Contributions section. Here you'll find projects, tools, and open-source initiatives I've developed to support education, community, and the technical community.
+Bienvenue dans la section Contributions. Vous trouverez ici des projets, des outils et des initiatives open-source que j'ai développés pour soutenir l'éducation, la communauté et l'écosystème technique.
 
-## Current Projects
+## Projets actuels
 
 - Scheduler Student Services
-- CareerCanvas Hugo Theme
+- Thème Hugo CareerCanvas
 
-Browse through the projects below or use the tags to find specific contributions. 
+Parcourez les projets ci-dessous ou utilisez les tags pour trouver des contributions spécifiques.

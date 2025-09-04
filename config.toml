@@ -2,6 +2,55 @@ baseURL = "https://felipecordero.com"
 languageCode = "en-us"
 title = "Felipe Cordero"
 theme = "careercanvas"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+[languages]
+  [languages.en]
+    contentDir = "content/en"
+    languageName = "English"
+    weight = 1
+    [languages.en.params]
+      tagline = "Engineer. Coder. Problem Solver."
+      hero_description = "Structural engineer and software developer with 14+ years in Architecture, Engineering, and Construction (AEC), expanding expertise with AI/ML to build intelligent solutions for complex engineering problems."
+      hero_location = "Montréal, Canada"
+      collab_tags = [
+        "AI/ML Solutions",
+        "Engineering Software",
+        "R&D & Innovation",
+        "Technical Leadership",
+        "Construction Tech"
+      ]
+  [languages.es]
+    contentDir = "content/es"
+    languageName = "Español"
+    weight = 2
+    [languages.es.params]
+      tagline = "Ingeniero. Coder. Solucionador de problemas."
+      hero_description = "Ingeniero estructural y desarrollador de software con más de 14 años en Arquitectura, Ingeniería y Construcción (AEC), ampliando experiencia en IA/ML para crear soluciones inteligentes a problemas de ingeniería complejos."
+      hero_location = "Montreal, Canadá"
+      collab_tags = [
+        "Soluciones de IA/ML",
+        "Software de Ingeniería",
+        "I+D e Innovación",
+        "Liderazgo Técnico",
+        "Tecnología en Construcción"
+      ]
+  [languages.fr]
+    contentDir = "content/fr"
+    languageName = "Français"
+    weight = 3
+    [languages.fr.params]
+      tagline = "Ingénieur. Codeur. Résolveur de problèmes."
+      hero_description = "Ingénieur structure et développeur logiciel avec plus de 14 ans d'expérience dans l'architecture, l'ingénierie et la construction (AEC), développant des solutions intelligentes grâce à l'IA/ML pour résoudre des problèmes complexes."
+      hero_location = "Montréal, Canada"
+      collab_tags = [
+        "Solutions IA/ML",
+        "Logiciels d'ingénierie",
+        "R&D et Innovation",
+        "Leadership technique",
+        "Technologie de construction"
+      ]
 
 [build]
   writeStats = true
@@ -41,10 +90,6 @@ resume_label = "View CV"
 
 formspree_endpoint = "https://formspree.io/f/xgvkkdnn" # Change to your Formspree endpoint
 
-# Technical skills configuration
-[params.technical_skills]
-# FontAwesome brand icons (for special icons like Python, JS, etc.)
-brand_icons = ["python", "js", "html5", "css3-alt", "linux", "docker", "github", "gitlab"]
 
 [[params.social]]
 icon = "linkedin-in"
@@ -56,35 +101,6 @@ url = "https://github.com/felipecordero"
 
 sectionPagesMenu = 'main'
 
-[[menu.main]]
-  name = "About"
-  url = "/#about"
-  weight = 2
-
-[[menu.main]]
-  name = "Skills"
-  url = "/#skills"
-  weight = 3
-
-[[menu.main]]
-  name = "Experience"
-  url = "/#experience"
-  weight = 4
-
-[[menu.main]]
-  name = "Contact"
-  url = "/#contact"
-  weight = 5
-
-[[menu.main]]
-name = "Blog"
-url = "/blog/"
-weight = 60
-
-[[menu.main]]
-  name = "Tech Stack"
-  url = "/#technical"
-  weight = 4.5
 
 [taxonomies]
   tag = "tags"
@@ -102,17 +118,6 @@ weight = 60
     [server.headers.values]
       Content-Type = "text/css"
 
-[menu]
-  [[menu.main]]
-    name = "Structural Engineering"
-    url = "/engineering/"
-    weight = 50
-    pre = "engineering"
-  [[menu.main]]
-    name = "Contributions"
-    url = "/contributions/"
-    weight = 51
-    pre = "contributions"
 
 # Branding Configuration - Savannah King
 [params.colors]

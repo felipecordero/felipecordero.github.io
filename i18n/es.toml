@@ -1,0 +1,128 @@
+# Traducciones base de UI (listas para el tema). Ajusta claves según se usen.
+
+[read_more]
+other = "Leer más"
+
+[by]
+other = "por"
+
+[posted_on]
+other = "Publicado el"
+
+[tags]
+other = "Etiquetas"
+
+[contact]
+other = "Contacto"
+
+[send]
+other = "Enviar"
+
+[skills]
+other = "Habilidades"
+
+[experience]
+other = "Experiencia"
+
+[about]
+other = "Sobre mí"
+
+[blog]
+other = "Blog"
+
+[engineering]
+other = "Ingeniería"
+
+[contributions]
+other = "Contribuciones"
+
+[technical]
+other = "Tech Stack"
+
+[language]
+other = "Idioma"
+
+[getInTouch]
+other = "Contáctame"
+
+[learnMore]
+other = "Ver más"
+
+[sendMeAMessage]
+other = "Envíame un mensaje"
+
+[contactInformation]
+other = "Información de contacto"
+
+[priorityContact]
+other = "Contacto prioritario"
+
+[aboutMe]
+other = "Sobre mí"
+
+[connectOnLinkedIn]
+other = "Conectar en LinkedIn"
+
+[quickFacts]
+other = "Datos rápidos"
+
+[more]
+other = "Más"
+
+[aboutName]
+other = "Sobre"
+
+[relatedContent]
+other = "Contenido relacionado"
+
+[interests]
+other = "Intereses"
+
+[languages]
+other = "Idiomas"
+
+[helloIm]
+other = "Hola, soy"
+
+[viewCV]
+other = "Ver CV"
+
+[downloadResume]
+other = "Descargar CV"
+
+[keyAchievements]
+other = "Logros clave"
+
+[demoImageAlt]
+other = "Imagen de ejemplo"
+
+[galleryNotFound]
+other = "No se encontraron imágenes de la galería en"
+
+[viewOnGithub]
+other = "Ver código completo en GitHub"
+
+[iframeIdRequired]
+other = "Error: el parámetro 'id' es obligatorio para el shortcode iframe."
+
+[fullscreen]
+other = "Pantalla completa"
+
+[youtubePlayerTitle]
+other = "Reproductor de YouTube"
+
+[vimeoPlayerTitle]
+other = "Reproductor de Vimeo"
+
+[pageNotFound]
+other = "Página no encontrada"
+
+[pageNotFoundSubtitle]
+other = "La página que buscas no existe."
+
+[goHome]
+other = "Ir al inicio"
+
+[certainlyNotHere]
+other = "Seguro que no aquí"
+

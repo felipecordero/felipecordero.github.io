@@ -1,24 +1,24 @@
 +++
-title = "Structural Engineering"
-description = "Explore my structural engineering tools and solutions for modern construction challenges."
+title = "Ingénierie structurelle"
+description = "Découvrez mes outils et solutions d'ingénierie structurelle pour les défis de la construction moderne."
 type = "list"
 # menu = "main"
 weight = 50
 +++
 
-## Structural Engineering Tools & Solutions
+## Outils et solutions d'ingénierie structurelle
 
-Here you'll find a collection of tools and solutions I've developed to tackle complex structural challenges in today's construction industry.
+Vous trouverez ici une collection d'outils et de solutions que j'ai développés pour relever des défis structurels complexes dans l'industrie de la construction actuelle.
 
-### What You'll Find Here
+### Ce que vous trouverez ici
 
-- **Automated Design Tools**: Streamlined calculators for common structural problems
-- **Real-Time Monitoring Solutions**: Systems that provide live structural insights during construction
-- **BIM Integration Tools**: Software that bridges the gap between design and construction
-- **Interactive Visualizations**: Web-based tools for better understanding of structural behavior
+- **Outils de conception automatisée** : calculateurs optimisés pour des problèmes structurels courants
+- **Solutions de suivi en temps réel** : systèmes fournissant des informations structurelles pendant la construction
+- **Outils d'intégration BIM** : logiciels reliant le design et la construction
+- **Visualisations interactives** : outils web pour mieux comprendre le comportement structurel
 
-Each tool represents my commitment to making complex engineering concepts more accessible and practical for real-world applications.
+Chaque outil représente mon engagement à rendre les concepts d'ingénierie complexes plus accessibles et pratiques pour des applications réelles.
 
 ---
 
-*Browse through the tools below or use the tags to find specific solutions that match your needs.* 
+*Parcourez les outils ci-dessous ou utilisez les tags pour trouver des solutions adaptées à vos besoins.*
