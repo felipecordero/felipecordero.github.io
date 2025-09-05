@@ -1,8 +1,9 @@
-+++
-title = "Concrete Beam Designer"
-featured_image = "/images/beams_demo_image.png"
-tags = ["structural-engineering", "design-tools", "concrete-design", "python", "streamlit", "beam-analysis"]
-+++
+---
+title: "Concrete Beam Designer"
+description: "Application web moderne pour l'analyse et la conception de poutres en béton, avec analyse des charges, configurations d'appui et visualisations interactives."
+featured_image: "/images/beams_demo_image.png"
+tags: ["structural-engineering", "design-tools", "concrete-design", "python", "streamlit", "beam-analysis"]
+---
 
 
 ## Welcome! 👋

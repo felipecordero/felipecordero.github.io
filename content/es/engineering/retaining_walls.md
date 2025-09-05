@@ -1,8 +1,9 @@
-+++
-title = "Retaining Walls Designer"
-featured_image = "/images/album_retain_walls/demo.png"
-tags = ["structural-engineering", "design-tools", "retaining-walls", "python", "streamlit"]
-+++
+---
+title: "Retaining Walls Designer"
+description: "Aplicación web moderna para diseño y análisis de muros de contención de concreto en voladizo, con definición de parámetros, dimensionamiento, diseño de refuerzo y visualización interactiva."
+featured_image: "/images/album_retain_walls/demo.png"
+tags: ["structural-engineering", "design-tools", "retaining-walls", "python", "streamlit"]
+---
 
 ## Welcome! 👋
 

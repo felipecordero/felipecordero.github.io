@@ -1,8 +1,9 @@
-+++
-title = "Concrete Beam Designer"
-featured_image = "/images/beams_demo_image.png"
-tags = ["structural-engineering", "design-tools", "concrete-design", "python", "streamlit", "beam-analysis"]
-+++
+---
+title: "Concrete Beam Designer"
+description: "Una aplicación web moderna para análisis y diseño de vigas de concreto, con análisis de cargas, configuraciones de apoyo y visualizaciones interactivas."
+featured_image: "/images/beams_demo_image.png"
+tags: ["structural-engineering", "design-tools", "concrete-design", "python", "streamlit", "beam-analysis"]
+---
 
 
 ## Welcome! 👋

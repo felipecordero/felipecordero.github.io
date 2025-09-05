@@ -1,8 +1,9 @@
-+++
-title = "Retaining Walls Designer"
-featured_image = "/images/album_retain_walls/demo.png"
-tags = ["structural-engineering", "design-tools", "retaining-walls", "python", "streamlit"]
-+++
+---
+title: "Retaining Walls Designer"
+description: "Application web moderne pour la conception et l'analyse de murs de soutènement en béton en porte-à-faux, avec définition des paramètres, dimensionnement, conception des armatures et visualisation interactive."
+featured_image: "/images/album_retain_walls/demo.png"
+tags: ["structural-engineering", "design-tools", "retaining-walls", "python", "streamlit"]
+---
 
 ## Welcome! 👋
 
