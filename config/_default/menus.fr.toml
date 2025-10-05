@@ -25,18 +25,18 @@ weight = 4.5
 
 [[main]]
 name = "Blog"
-pageRef = "/blog"
+url = "/fr/blog/"
 weight = 60
 
 [[main]]
 name = "Ingénierie"
-pageRef = "/engineering"
+url = "/fr/engineering/"
 weight = 50
 pre = "engineering"
 
 [[main]]
 name = "Contributions"
-pageRef = "/contributions"
+url = "/fr/contributions/"
 weight = 51
 pre = "contributions"
 

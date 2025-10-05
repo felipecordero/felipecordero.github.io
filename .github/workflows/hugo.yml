@@ -56,6 +56,8 @@ jobs:
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          FORMSPREE_ENDPOINT: ${{ secrets.FORMSPREE_ENDPOINT }}
         run: |
           hugo \
             --minify \

@@ -10,7 +10,7 @@ study: >-
 
 passion_title: "Ce qui me passionne"
 passion_text: >-
-  J'aime apprendre et appliquer l'**IA** aux **défis réels d'ingénierie** 🔬. Chez <a href="https://fireraven.ai" target="_blank" rel="noopener noreferrer"><strong>Fireraven</strong></a>, je participe au développement d'une **plateforme SaaS low-code de sécurité et conformité** pour **assistants et agents LLM** 🛡️. Auparavant chez <a href="https://obralink.com" target="_blank" rel="noopener noreferrer"><strong>ObraLink</strong></a>, j'ai dirigé le développement d'**outils autonomes d'analyse structurelle** et de **modèles de ML** pour l'estimation du béton 🏢.
+  J'aime apprendre et appliquer l'**IA** aux **défis réels d'ingénierie** 🔬. Chez <a href="https://fireraven.ai" target="_blank" rel="noopener noreferrer"><strong>Fireraven</strong></a>, je développe des **plateformes multi-utilisateurs full-stack** intégrant des **agents IA et systèmes RAG**, tout en construisant des **solutions de cybersécurité de pointe** pour chatbots d'entreprise 🛡️. Je participe activement aux **événements de l'industrie IA** et stimule le **développement commercial stratégique** par l'acquisition de clients et partenariats 🤝. Auparavant chez <a href="https://obralink.com" target="_blank" rel="noopener noreferrer"><strong>ObraLink</strong></a>, j'ai dirigé le développement d'**outils autonomes d'analyse structurelle** et de **modèles de ML** pour l'estimation du béton 🏢.
 
 mix: >-
   Fort d'une expérience en **ingénierie structurelle** 🏗️ et en **développement logiciel** 💻, j'apporte une **perspective unique** aux défis techniques. J'ai dirigé des équipes pour construire aussi bien des **structures physiques** que des **systèmes logiciels évolutifs**, avec un focus sur des **solutions pratiques et efficaces** ⚡.
@@ -21,7 +21,7 @@ personal: >-
 quickfacts:
   - icon: "briefcase"
     title: "Rôle actuel"
-    value: "🤖 Stagiaire IA chez <a href=\"https://fireraven.ai\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Fireraven</strong></a>"
+    value: "🤖 Développeur IA chez <a href=\"https://fireraven.ai\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Fireraven</strong></a>"
   - icon: "graduation-cap"
     title: "Éducation"
     value: "🏗️ <a href=\"https://uchile.cl/\" target=\"_blank\" rel=\"noopener noreferrer\">Université du Chili</a>, **Ingénierie Civile**<br>🤖 <a href=\"https://lasallecollege.lcieducation.com/en\" target=\"_blank\" rel=\"noopener noreferrer\">Collège LaSalle Montréal</a>, **AEC : Intelligence Artificielle et Apprentissage Automatique**"

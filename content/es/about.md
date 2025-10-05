@@ -10,7 +10,7 @@ study: >-
 
 passion_title: "Lo que me apasiona"
 passion_text: >-
-  Me apasiona aprender y aplicar **IA a desafíos reales de ingeniería** 🔬. En <a href="https://fireraven.ai" target="_blank" rel="noopener noreferrer"><strong>Fireraven</strong></a>, colaboro en el desarrollo de una **plataforma SaaS de seguridad y cumplimiento low-code** para **asistentes y agentes LLM** 🛡️. Anteriormente en <a href="https://obralink.com" target="_blank" rel="noopener noreferrer"><strong>ObraLink</strong></a>, lideré el desarrollo de **herramientas autónomas de análisis estructural** y **modelos de ML** para estimación de hormigón 🏢. Mi objetivo es crear **soluciones innovadoras** con impacto real en el entorno construido.
+  Me apasiona aprender y aplicar **IA a desafíos reales de ingeniería** 🔬. En <a href="https://fireraven.ai" target="_blank" rel="noopener noreferrer"><strong>Fireraven</strong></a>, desarrollo **plataformas multiusuario full-stack** integrando **agentes de IA y sistemas RAG**, mientras construyo **soluciones de ciberseguridad de vanguardia** para chatbots empresariales 🛡️. Participo activamente en **eventos de la industria IA** e impulso el **desarrollo estratégico de negocios** mediante adquisición de clientes y alianzas 🤝. Anteriormente en <a href="https://obralink.com" target="_blank" rel="noopener noreferrer"><strong>ObraLink</strong></a>, lideré el desarrollo de **herramientas autónomas de análisis estructural** y **modelos de ML** para estimación de hormigón 🏢. Mi objetivo es crear **soluciones innovadoras** con impacto real en el entorno construido.
 
 mix: >-
   Con experiencia tanto en **ingeniería estructural** 🏗️ como en **desarrollo de software** 💻, aporto una **perspectiva única** a los desafíos técnicos. He liderado equipos construyendo desde **estructuras físicas hasta sistemas de software escalables**, siempre con foco en **soluciones prácticas y eficientes** ⚡. Mi **trayectoria internacional** y compromiso con el **aprendizaje continuo** me impulsan a tender puentes entre disciplinas y entregar valor en distintas industrias.
@@ -21,7 +21,7 @@ personal: >-
 quickfacts:
   - icon: "briefcase"
     title: "Rol actual"
-    value: "🤖 Práctica en IA en <a href=\"https://fireraven.ai\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Fireraven</strong></a>"
+    value: "🤖 Desarrollador de IA en <a href=\"https://fireraven.ai\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Fireraven</strong></a>"
   - icon: "graduation-cap"
     title: "Educación"
     value: "🏗️ <a href=\"https://uchile.cl/\" target=\"_blank\" rel=\"noopener noreferrer\">Universidad de Chile</a>, **Ingeniería Civil**<br>🤖 <a href=\"https://lasallecollege.lcieducation.com/en\" target=\"_blank\" rel=\"noopener noreferrer\">Collège LaSalle Montréal</a>, **AEC: Inteligencia Artificial y Aprendizaje Automático**"

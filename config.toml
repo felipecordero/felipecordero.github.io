@@ -1,3 +1,11 @@
+# Hugo Site Configuration
+# This is the main configuration file for the Hugo site
+# 
+# SECURITY NOTE: Sensitive data (API keys, endpoints) are handled securely:
+# - Local development: Use config.local.toml (not committed to git)
+# - Production: Environment variables injected via GitHub Actions
+# - See comments below for setup instructions
+#
 baseURL = "https://felipecordero.com"
 languageCode = "en-us"
 title = "Felipe Cordero"
@@ -26,7 +34,7 @@ defaultContentLanguageInSubdir = false
     languageName = "Español"
     weight = 2
     [languages.es.params]
-      tagline = "Ingeniero. Coder. Solucionador de problemas."
+      tagline = "Ingeniero. Desarrollador de Software. Solucionador de problemas."
       hero_description = "Ingeniero estructural y desarrollador de software con más de 14 años en Arquitectura, Ingeniería y Construcción (AEC), ampliando experiencia en IA/ML para crear soluciones inteligentes a problemas de ingeniería complejos."
       hero_location = "Montreal, Canadá"
       collab_tags = [
@@ -77,7 +85,18 @@ resume_url_en = "/files/Felipe_Cordero_CV_English_version.pdf"
 resume_url_fr = "/files/Felipe_Cordero_CV_French_version.pdf"
 resume_label = "View CV"
 
-formspree_endpoint = "https://formspree.io/f/xgvkkdnn" # Change to your Formspree endpoint
+# Contact Form Configuration
+# For security, sensitive endpoints are moved to config.local.toml
+# In production, these are injected via environment variables in GitHub Actions
+# 
+# To set up locally, create config.local.toml with:
+# [params]
+#   pexels_api_key = "your_pexels_api_key_here"
+#   formspree_endpoint = "https://formspree.io/f/your_endpoint_here"
+#
+# For production deployment, add these as GitHub Secrets:
+# - PEXELS_API_KEY: Your Pexels API key
+# - FORMSPREE_ENDPOINT: Your Formspree endpoint URL
 
 
 [[params.social]]
@@ -107,12 +126,33 @@ sectionPagesMenu = 'main'
     [server.headers.values]
       Content-Type = "text/css"
 
+# Security configuration for environment variables
+# Note: We now use serverless functions for secure API key handling
+[security]
+  [security.funcs]
+    getenv = ['^HUGO_', '^CI$']
 
-# Branding Configuration - Savannah King
+
 [params.colors]
-  # main_color   = "#A97142"  # Lion Brown, warm and dominant
-  # second_color = "#2E2E2E"  # Dark Charcoal, authority
-  # third_color  = "#E6B325"  # Golden Mane, majesty and power
-  main_color   = "#095BB0"  # Slightly Darker LinkedIn Blue, professional and trustworthy
-  second_color = "#004182"  # Darker Blue, for depth and sophistication
-  third_color  = "#8C8C8C"  # Neutral Gray, for balance and modernity
+  main_color   = "#474A51"  # Graphite Gray – ultra professional, metallic, predominant
+  second_color = "#E52521"  # Mario Red – subtle accent, inspired by Super Mario
+  third_color  = "#3CB043"  # Luigi Green – subtle accent, inspired by Luigi
+
+
+
+
+# Pexels Background Configuration
+# This section configures the random background images for the hero section
+# The API key is securely handled via environment variables (see comments above)
+[params.pexels]
+  # Image search queries for random background images
+  # Customize this list to change the types of images that appear
+  # The system will randomly select from these queries for each page loads
+  queries = [
+    # "galaxy", "nebula", "planet", "astronomy",
+    # "solar system", "black hole", "constellation", "meteor",
+    # "comet", "asteroid", "space station", "satellite",
+    # "structural long span bridges", "structural skycrapers", "astronomy nasa pictures",
+    "universe solar systems nasa pictures", "structural long span bridges",
+    "nebula nasa pictures",
+  ]
