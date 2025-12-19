@@ -1,5 +1,10 @@
 {
   "buildCommand": "./build.sh",
   "outputDirectory": "public",
-  "framework": "hugo"
+  "framework": "hugo",
+  "git": {
+    "deploymentEnabled": {
+      "main": true
+    }
+  }
 }
