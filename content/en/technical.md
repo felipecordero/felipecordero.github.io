@@ -43,13 +43,21 @@ technical_groups:
       - icon: "server"
         name: "NoSQL"
 
-  - title: "Web & UI"
-    icon: "palette"
-    color_scheme: "purple"
+  - title: "Backend Frameworks"
+    icon: "server"
+    color_scheme: "blue"
     skills:
       - icon: "bolt"
         name: "FastAPI"
         devicon_name: "fastapi"
+      - icon: "node-js"
+        name: "NestJS"
+        devicon_name: "nestjs"
+
+  - title: "Frontend Frameworks"
+    icon: "palette"
+    color_scheme: "purple"
+    skills:
       - icon: "atom"
         name: "React"
         devicon_name: "react"
@@ -172,6 +180,8 @@ technical_groups:
       - icon: "elephant"
         name: "PostgreSQL"
         devicon_name: "postgresql"
+      - icon: "database"
+        name: "SQLModel"
       - icon: "database"
         name: "MySQL"
         devicon_name: "mysql"

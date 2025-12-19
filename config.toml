@@ -20,14 +20,14 @@ defaultContentLanguageInSubdir = false
     weight = 1
     [languages.en.params]
       tagline = "Engineer. Coder. Problem Solver."
-      hero_description = "Structural engineer and software developer with 14+ years in Architecture, Engineering, and Construction (AEC), expanding expertise with AI/ML to build intelligent solutions for complex engineering problems."
+      hero_description = "Structural engineer and full stack developer with 14+ years in Architecture, Engineering, and Construction (AEC), now specializing in AI/ML. Currently building security and compliance solutions for LLM-based AI agents at Fireraven."
       hero_location = "Montréal, Canada"
       collab_tags = [
-        "AI/ML Solutions",
-        "Engineering Software",
-        "R&D & Innovation",
-        "Technical Leadership",
-        "Construction Tech"
+        "Full Stack Development",
+        "AI Security & Compliance",
+        "LLM-based Solutions",
+        "PostgreSQL & Data Pipelines",
+        "Agile Scrum"
       ]
   [languages.es]
     contentDir = "content/es"
@@ -71,7 +71,7 @@ author = "Felipe Cordero"
 
 og_image = "images/felipecordero-og.png"
 
-description = "Structural engineer and software developer expanding into AI/ML to solve complex engineering and automation challenges."
+description = "Structural engineer and full stack developer specializing in AI/ML. Building security and compliance solutions for LLM-based AI agents at Fireraven using Python, React, and modern web technologies."
 
 linkedin_url = "https://www.linkedin.com/in/felipe-cordero-osorio"
 linkedin_text = "linkedin.com/in/felipe-cordero-osorio"

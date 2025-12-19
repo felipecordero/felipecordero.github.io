@@ -2,23 +2,23 @@
 title: "Skills"
 type: "homepage"
 intro: >-
-  Combining 14+ years of structural engineering expertise with modern software development and expanding into AI/ML capabilities.
+  Combining 14+ years of structural engineering expertise with modern full-stack software development, specializing in Python, React, and AI/ML capabilities.
 
 domains:
   - icon: "code"
-    title: "Software Development"
-    description: "Building scalable engineering software solutions with Python and modern frameworks, focusing on real-time analysis and automation."
+    title: "Full Stack Development"
+    description: "Building scalable full-stack solutions with Python (FastAPI, NestJS) and React (Next.js, TypeScript), maintaining 50/50 backend/frontend split. Expertise in OOP principles, design patterns (DRY, YAGNI, SOLID), and microservices architecture."
     devicon_class: "devicon-python-plain colored"
 
   - icon: "brain"
-    title: "Artificial Intelligence"
-    description: "Expanding expertise in LLM-based solutions and ML models for engineering applications, specializing in compliance tools and predictive analytics."
+    title: "AI Security & Compliance"
+    description: "Designing and developing security and compliance features for LLM-based agents. Building enterprise-grade solutions with regulatory compliance for financial applications, leveraging Generative AI technologies."
     devicon_class: "devicon-tensorflow-original colored"
 
-  - icon: "chart-line"
-    title: "Data Science"
-    description: "Transforming complex data into actionable insights through statistical analysis, visualization, and machine learning techniques."
-    devicon_class: "devicon-pandas-plain colored"
+  - icon: "database"
+    title: "Database & Data Management"
+    description: "Implementing and optimizing PostgreSQL database schemas, queries, and data pipelines. Handling complex relationships and ensuring regulatory compliance for financial-grade applications."
+    devicon_class: "devicon-postgresql-plain colored"
 
   - icon: "tools"
     title: "Engineering Expertise"
@@ -26,8 +26,8 @@ domains:
     devicon_class: "devicon-docker-plain colored"
 
   - icon: "users"
-    title: "Leadership & Project Management"
-    description: "Leading cross-functional teams in R&D and software development, managing complex projects up to 20,000 m², and coordinating multidisciplinary initiatives."
+    title: "Agile Collaboration & Leadership"
+    description: "Collaborating with global distributed teams in Agile Scrum environments. Leading cross-functional teams in R&D and software development, managing complex projects, and coordinating multidisciplinary initiatives."
     devicon_class: "devicon-github-original colored"
 
   - icon: "lightbulb"
@@ -37,7 +37,7 @@ domains:
 
   - icon: "globe"
     title: "International Experience"
-    description: "Native Spanish speaker with full professional English proficiency and intermediate French, enabling effective communication in diverse international settings."
+    description: "Native Spanish speaker with IELTS C1 English proficiency and TCF B2 French, enabling effective communication in diverse international settings and global distributed teams."
     devicon_class: "devicon-html5-plain colored"
 
   - icon: "hands-helping"
