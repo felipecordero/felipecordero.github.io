@@ -1,0 +1,32 @@
+{{ $alt := .Get "alt" | default (i18n "demoImageAlt") }}
+{{ $caption := .Get "caption" | default "" }}
+{{ $width := .Get "width" | default "auto" }}
+{{ $height := .Get "height" | default "auto" }}
+
+<div class="my-8">
+  {{ if .Get "link" }}
+  <a href="{{ .Get "link" }}" target="_blank" class="block">
+    <img 
+      src="{{ .Get "src" }}" 
+      alt="{{ $alt }}" 
+      width="{{ $width }}"
+      height="{{ $height }}"
+      class="rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300"
+      loading="lazy"
+    >
+  </a>
+  {{ else }}
+  <img 
+    src="{{ .Get "src" }}" 
+    alt="{{ $alt }}" 
+    width="{{ $width }}"
+    height="{{ $height }}"
+    class="rounded-lg shadow-md"
+    loading="lazy"
+  >
+  {{ end }}
+  {{ if $caption }}
+  <p class="text-center text-text-secondary dark:text-text-secondary mt-2 text-sm">{{ $caption }}</p>
+  {{ end }}
+</div>
+
