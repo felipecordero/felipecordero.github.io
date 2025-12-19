@@ -1,0 +1,19 @@
+{{ $dir := .Get "dir" }}
+{{ $path := printf "static/%s" $dir }}
+
+{{ if fileExists $path }}
+  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
+    {{ $files := readDir $path }}
+    {{ range $files }}
+      {{ $filename := .Name }}
+      <a href="/{{ $dir }}/{{ $filename }}" data-fslightbox="gallery">
+        <img src="/{{ $dir }}/{{ $filename }}" alt="{{ $filename }}" class="w-full rounded shadow hover:scale-105 transition-transform duration-300" loading="lazy">
+      </a>
+    {{ end }}
+  </div>
+{{ else }}
+  <div class="text-text-muted italic">
+    {{ i18n "galleryNotFound" }} {{ $dir }}
+  </div>
+{{ end }}
+
