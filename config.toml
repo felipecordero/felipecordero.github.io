@@ -78,6 +78,9 @@ linkedin_text = "linkedin.com/in/felipe-cordero-osorio"
 github_url = "https://github.com/felipecordero"
 github_text = "github.com/felipecordero"
 
+calendly_url = "https://calendly.com/mail-felipecordero/30min"
+calendly_height = "700px"
+
 copyright = "© 2025 | Felipe Cordero"
 
 
@@ -149,23 +152,23 @@ sectionPagesMenu = 'main'
     second_color = "#06B6D4"  # Cyan – fresh and innovative
     third_color = "#10B981"   # Emerald – growth and success
   
-  [[params.color_palettes.palette]]
-    name = "sunset"
-    main_color = "#DC2626"    # Vibrant Red – warm and energetic
-    second_color = "#F59E0B"  # Amber – optimistic and bright
-    third_color = "#EF4444"   # Red Orange – passion and creativity
-  
-  [[params.color_palettes.palette]]
-    name = "forest"
-    main_color = "#059669"    # Deep Emerald – natural and stable
-    second_color = "#10B981"  # Green – growth and success
-    third_color = "#F59E0B"   # Golden Yellow – wisdom and clarity
-  
-  [[params.color_palettes.palette]]
-    name = "fire"
-    main_color = "#EA580C"    # Orange – creativity and enthusiasm
-    second_color = "#DC2626"  # Red – passion and energy
-    third_color = "#F59E0B"   # Amber – warmth and optimism
+  # [[params.color_palettes.palette]]
+  #   name = "sunset"
+  #   main_color = "#DC2626"    # Vibrant Red – warm and energetic
+  #   second_color = "#F59E0B"  # Amber – optimistic and bright
+  #   third_color = "#EF4444"   # Red Orange – passion and creativity
+  # 
+  # [[params.color_palettes.palette]]
+  #   name = "forest"
+  #   main_color = "#059669"    # Deep Emerald – natural and stable
+  #   second_color = "#10B981"  # Green – growth and success
+  #   third_color = "#F59E0B"   # Golden Yellow – wisdom and clarity
+  # 
+  # [[params.color_palettes.palette]]
+  #   name = "fire"
+  #   main_color = "#EA580C"    # Orange – creativity and enthusiasm
+  #   second_color = "#DC2626"  # Red – passion and energy
+  #   third_color = "#F59E0B"   # Amber – warmth and optimism
   
   [[params.color_palettes.palette]]
     name = "steel"
@@ -179,11 +182,11 @@ sectionPagesMenu = 'main'
     second_color = "#3B82F6"  # Bright Blue – innovation and clarity
     third_color = "#F59E0B"   # Amber – excellence and achievement
   
-  [[params.color_palettes.palette]]
-    name = "charcoal"
-    main_color = "#1F2937"    # Charcoal – sophisticated and modern
-    second_color = "#EF4444"  # Red – energy and determination
-    third_color = "#22C55E"   # Green – growth and stability
+  # [[params.color_palettes.palette]]
+  #   name = "charcoal"
+  #   main_color = "#1F2937"    # Charcoal – sophisticated and modern
+  #   second_color = "#EF4444"  # Red – energy and determination
+  #   third_color = "#22C55E"   # Green – growth and stability
   
   [[params.color_palettes.palette]]
     name = "slate"
