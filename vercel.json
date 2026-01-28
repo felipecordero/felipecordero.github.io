@@ -6,15 +6,5 @@
     "deploymentEnabled": {
       "main": true
     }
-  },
-  "routes": [
-    {
-      "src": "/index.xml",
-      "headers": {
-        "Content-Type": "application/rss+xml"
-      }
-    }
-  ],
-  "cleanUrls": true,
-  "trailingSlash": false
+  }
 }
