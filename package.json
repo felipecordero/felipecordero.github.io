@@ -21,7 +21,6 @@
     "binary-extensions": "^2.3.0",
     "braces": "^3.0.3",
     "browserslist": "^4.24.5",
-    "caniuse-lite": "^1.0.30001717",
     "chokidar": "^3.6.0",
     "cliui": "^8.0.1",
     "color-convert": "^2.0.1",
@@ -84,7 +83,6 @@
     "build": "hugo --gc --minify",
     "build:css": "tailwindcss -i ./themes/careercanvas/assets/css/main.css -o ./themes/careercanvas/static/css/main.css --minify",
     "watch:css": "tailwindcss -i ./themes/careercanvas/assets/css/main.css -o ./themes/careercanvas/static/css/main.css --watch",
-
     "install:gsap": "npm install gsap@^3.13.0"
   },
   "repository": {
