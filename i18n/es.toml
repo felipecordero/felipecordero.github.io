@@ -54,6 +54,24 @@ other = "Envíame un mensaje"
 [contactInformation]
 other = "Información de contacto"
 
+[contactFormLabel]
+other = "Conectemos"
+
+[contactFormLabelNameLabel]
+other = "Nombre"
+
+[contactFormLabelEmailLabel]
+other = "Email"
+
+[contactFormLabelSubjectLabel]
+other = "Asunto"
+
+[contactFormLabelMessageLabel]
+other = "Mensaje"
+
+[contactFormSendBtnLabel]
+other = "Enviar"
+
 [priorityContact]
 other = "Contacto prioritario"
 

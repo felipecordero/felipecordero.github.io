@@ -13,6 +13,24 @@ other = "Envoyez-moi un message"
 [contactInformation]
 other = "Informations de contact"
 
+[contactFormLabel]
+other = "Restons en contact"
+
+[contactFormLabelNameLabel]
+other = "Nom"
+
+[contactFormLabelEmailLabel]
+other = "Email"
+
+[contactFormLabelSubjectLabel]
+other = "Objet"
+
+[contactFormLabelMessageLabel]
+other = "Message"
+
+[contactFormSendBtnLabel]
+other = "Envoyer"
+
 [priorityContact]
 other = "Contact prioritaire"
 

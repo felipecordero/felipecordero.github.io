@@ -15,6 +15,24 @@ other = "Tags"
 [contact]
 other = "Contact"
 
+[contactFormLabel]
+other = "Let's Connect"
+
+[contactFormLabelNameLabel]
+other = "Name"
+
+[contactFormLabelEmailLabel]
+other = "Email"
+
+[contactFormLabelSubjectLabel]
+other = "Subject"
+
+[contactFormLabelMessageLabel]
+other = "Message"
+
+[contactFormSendBtnLabel]
+other = "Send"
+
 [send]
 other = "Send"
 

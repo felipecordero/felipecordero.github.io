@@ -4,9 +4,11 @@ type: "homepage"
 intro: >-
   De la ingeniería estructural al desarrollo en IA, construyendo herramientas prácticas que conectan la ingeniería tradicional con la tecnología moderna.
 
-resume_url_en: "/files/Felipe_Cordero_CV_English_version.pdf"
-resume_url_fr: "/files/Felipe_Cordero_CV_French_version.pdf"
-resume_label: "Descargar CV"
+resume_downloads:
+  - lang: en
+    label: English
+  - lang: fr
+    label: Français
 
 positions:
   - company: "Fireraven"
