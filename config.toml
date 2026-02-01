@@ -68,6 +68,8 @@ defaultContentLanguageInSubdir = false
 
 [params]
 name = "Felipe Cordero"
+firstName = "Felipe"
+lastName = "Cordero"
 email = "mail@felipecordero.com"
 profile_image = "/images/felipe-cordero-profile.jpg"
 author = "Felipe Cordero"
