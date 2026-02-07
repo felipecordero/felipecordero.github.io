@@ -46,6 +46,16 @@ This command runs `hugo server -D`, which starts a local server and includes dra
 
 The site will be available at `http://localhost:1313`
 
+For the contact form and Pexels hero backgrounds to work locally, create a `config.local.toml` (gitignored) in the project root:
+
+```toml
+[params]
+  pexelsapikey = "your_pexels_api_key"
+  formspreeendpoint = "https://formspree.io/f/your_form_id"
+```
+
+Run with `hugo server --config config.toml,config.local.toml` (or use `./dev.sh` if it merges both).
+
 ## 🏗️ Building
 
 To build the site for production, you need to:
@@ -68,6 +78,13 @@ npm run build:css && npm run build
 The built site will be in the `public/` directory.
 
 Note: The CSS build step is necessary because the site uses Tailwind CSS, which needs to be processed to generate the final CSS file with only the used styles.
+
+### Deploying (e.g. Vercel)
+
+Set these environment variables so the contact form and Pexels backgrounds work. **Use no underscores in the param name** (Hugo maps `HUGO_PARAMS_*` by splitting on `_`):
+
+- `HUGO_PARAMS_PEXELSAPIKEY` – your Pexels API key
+- `HUGO_PARAMS_FORMSPREEENDPOINT` – your Formspree endpoint URL (e.g. `https://formspree.io/f/xxxxx`)
 
 ## 📁 Project Structure
 
