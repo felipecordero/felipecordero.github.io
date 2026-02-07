@@ -1,11 +1,4 @@
 # Hugo Site Configuration
-# This is the main configuration file for the Hugo site
-# 
-# SECURITY NOTE: Sensitive data (API keys, endpoints) are handled securely:
-# - Local development: Use config.local.toml (not committed to git)
-# - Production: Environment variables injected via GitHub Actions
-# - See comments below for setup instructions
-#
 baseURL = "https://felipecordero.com"
 languageCode = "en-us"
 title = "Felipe Cordero"
@@ -88,19 +81,9 @@ resume_url_en = "/files/Felipe_Cordero_CV_English_version.pdf"
 resume_url_fr = "/files/Felipe_Cordero_CV_French_version.pdf"
 resume_label = "View CV"
 
-# Contact Form Configuration
-# For security, sensitive endpoints are moved to config.local.toml
-# In production, these are injected via environment variables in GitHub Actions
-# 
-# To set up locally, create config.local.toml with:
-# [params]
-#   pexels_api_key = "your_pexels_api_key_here"
-#   formspree_endpoint = "https://formspree.io/f/your_endpoint_here"
-#
-# For production deployment, add these as GitHub Secrets:
-# - PEXELS_API_KEY: Your Pexels API key
-# - FORMSPREE_ENDPOINT: Your Formspree endpoint URL
-
+# Form and Pexels: set in config or config.local.toml (gitignored). CI: HUGO_PARAMS_FORMSPREE_ENDPOINT, HUGO_PARAMS_PEXELS_API_KEY
+formspree_endpoint = ""
+pexels_api_key = ""
 
 [[params.social]]
 icon = "linkedin-in"
@@ -128,13 +111,6 @@ sectionPagesMenu = 'main'
     for = "/**/*.css"
     [server.headers.values]
       Content-Type = "text/css"
-
-# Security configuration for environment variables
-# Note: We now use serverless functions for secure API key handling
-[security]
-  [security.funcs]
-    getenv = ['^HUGO_', '^CI$']
-
 
 # Dynamic Color Palettes Configuration
 # Multiple color palettes that will be randomly selected on each page load
@@ -204,9 +180,7 @@ sectionPagesMenu = 'main'
 
 
 
-# Pexels Background Configuration
-# This section configures the random background images for the hero section
-# The API key is securely handled via environment variables (see comments above)
+# Pexels hero backgrounds (queries only; API key in params above)
 [params.pexels]
   # Image search queries for random background images
   # Customize this list to change the types of images that appear
