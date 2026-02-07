@@ -81,9 +81,9 @@ resume_url_en = "/files/Felipe_Cordero_CV_English_version.pdf"
 resume_url_fr = "/files/Felipe_Cordero_CV_French_version.pdf"
 resume_label = "View CV"
 
-# Form and Pexels: set in config or config.local.toml (gitignored). CI: HUGO_PARAMS_FORMSPREE_ENDPOINT, HUGO_PARAMS_PEXELS_API_KEY
-formspree_endpoint = ""
-pexels_api_key = ""
+# Form and Pexels: set in config or config.local.toml. Vercel: HUGO_PARAMS_FORMSPREEENDPOINT, HUGO_PARAMS_PEXELSAPIKEY (no underscores in env names)
+formspreeendpoint = ""
+pexelsapikey = ""
 
 [[params.social]]
 icon = "linkedin-in"
