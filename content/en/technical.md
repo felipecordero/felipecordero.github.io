@@ -128,6 +128,19 @@ technical_groups:
       - icon: "layer-group"
         name: "Keras"
         devicon_name: "keras"
+      - icon: "brain"
+        name: "MindsDB"
+      - icon: "robot"
+        name: "Cohere"
+
+  - title: "Vector Stores"
+    icon: "vector-square"
+    color_scheme: "purple"
+    skills:
+      - icon: "vector-square"
+        name: "Pinecone"
+      - icon: "database"
+        name: "ChromaDB"
 
   - title: "Development Tools"
     icon: "tools"
@@ -197,6 +210,9 @@ technical_groups:
       - icon: "fire"
         name: "Firebase"
         devicon_name: "firebase"
+      - icon: "database"
+        name: "Prisma"
+        devicon_name: "prisma"
 
   - title: "Engineering Software"
     icon: "building"

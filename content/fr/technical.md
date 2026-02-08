@@ -120,6 +120,8 @@ technical_groups:
       - icon: "layer-group"
         name: "Keras"
         devicon_name: "keras"
+      - icon: "brain"
+        name: "MindsDB"
 
   - title: "Outils de développement"
     icon: "tools"
@@ -187,6 +189,9 @@ technical_groups:
       - icon: "fire"
         name: "Firebase"
         devicon_name: "firebase"
+      - icon: "database"
+        name: "Prisma"
+        devicon_name: "prisma"
 
   - title: "Logiciels d'ingénierie"
     icon: "building"
