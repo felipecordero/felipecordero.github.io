@@ -79,12 +79,9 @@ The built site will be in the `public/` directory.
 
 Note: The CSS build step is necessary because the site uses Tailwind CSS, which needs to be processed to generate the final CSS file with only the used styles.
 
-### Deploying (e.g. Vercel)
+### Deploying
 
-Set these environment variables so the contact form and Pexels backgrounds work. **Use no underscores in the param name** (Hugo maps `HUGO_PARAMS_*` by splitting on `_`):
-
-- `HUGO_PARAMS_PEXELSAPIKEY` – your Pexels API key
-- `HUGO_PARAMS_FORMSPREEENDPOINT` – your Formspree endpoint URL (e.g. `https://formspree.io/f/xxxxx`)
+For the contact form and Pexels backgrounds, set at build time: `HUGO_PARAMS_PEXELSAPIKEY`, `HUGO_PARAMS_FORMSPREEENDPOINT` (no underscores in the param name).
 
 ## 📁 Project Structure
 
