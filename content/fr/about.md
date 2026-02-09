@@ -32,7 +32,7 @@ quickfacts:
     title: "Langues"
     value: |
       - 🇬🇧 Anglais (Professionnel complet)
-      - 🇪🇸 Espagnol (Natif)
+      - 🇨🇱 Espagnol (Natif)
       - 🇫🇷 Français (Intermédiaire)
   - icon: "heart"
     title: "Centres d'intérêt"

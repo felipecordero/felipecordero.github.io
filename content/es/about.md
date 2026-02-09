@@ -33,7 +33,7 @@ quickfacts:
     title: "Idiomas"
     value: |
       - 🇬🇧 Inglés (Profesional completo)
-      - 🇪🇸 Español (Nativo)
+      - 🇨🇱 Español (Nativo)
       - 🇫🇷 Francés (Intermedio)
   - icon: "heart"
     kind: "interests"
