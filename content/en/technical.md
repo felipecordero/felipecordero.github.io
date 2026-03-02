@@ -52,6 +52,7 @@ technical_groups:
         devicon_name: "fastapi"
       - icon: "node-js"
         name: "NestJS"
+        devicon_style: original
         devicon_name: "nestjs"
 
   - title: "Frontend Frameworks"
@@ -64,6 +65,7 @@ technical_groups:
       - icon: "forward"
         name: "Next.js"
         devicon_name: "nextjs"
+        devicon_style: original
       - icon: "cube"
         name: "Three.js"
       - icon: "chart-line"
@@ -113,6 +115,7 @@ technical_groups:
       - icon: "network-wired"
         name: "PyTorch"
         devicon_name: "pytorch"
+        devicon_style: original
       - icon: "layer-group"
         name: "TensorFlow"
         devicon_name: "tensorflow"
@@ -132,6 +135,13 @@ technical_groups:
         name: "MindsDB"
       - icon: "robot"
         name: "Cohere"
+      - icon: "server"
+        name: "vLLM"
+      - icon: "box-open"
+        name: "BentoML"
+      - icon: "terminal"
+        name: "Ollama"
+        devicon_name: "ollama"
 
   - title: "Vector Stores"
     icon: "vector-square"
@@ -152,6 +162,7 @@ technical_groups:
       - icon: "github"
         name: "GitHub"
         devicon_name: "github"
+        devicon_style: "original"
       - icon: "gitlab"
         name: "GitLab"
         devicon_name: "gitlab"
