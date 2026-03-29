@@ -15,7 +15,7 @@ defaultContentLanguageInSubdir = false
       tagline = "Full-stack AI product engineer at Fireraven. Guardrails, compliance, and secure LLM agents."
       hero_description = "Full-stack AI product engineer at Fireraven, where we help enterprises deploy LLM agents with security, auditing, and policy-driven controls—from no-code guardrails to runtime enforcement and red-teaming. I bridge product priorities with AI systems engineering so customers can adopt agents safely and at scale."
       hero_location = "Montréal, Canada"
-      resume_url = "/files/Felipe_Cordero_CV_English_version.pdf"
+      resume_url = "/files/Felipe_Cordero_CV_ENG.pdf"
       collab_tags = [
         "AI agent security & compliance",
         "Guardrails & policy design",
@@ -31,7 +31,7 @@ defaultContentLanguageInSubdir = false
       tagline = "Ingeniero de producto IA full stack en Fireraven. Guardrails, cumplimiento y agentes LLM seguros."
       hero_description = "Ingeniero de producto IA full stack en Fireraven: ayudamos a las empresas a desplegar agentes LLM con seguridad, auditoría y controles basados en políticas—desde guardrails sin código hasta enforcement en tiempo de ejecución y red teaming. Conecto prioridades de producto con ingeniería de sistemas de IA para una adopción segura y a escala."
       hero_location = "Montreal, Canadá"
-      resume_url = "/files/Felipe_Cordero_CV_English_version.pdf"
+      resume_url = "/files/Felipe_Cordero_CV_ENG.pdf"
       collab_tags = [
         "Seguridad y cumplimiento de agentes IA",
         "Guardrails y diseño de políticas",
@@ -47,7 +47,7 @@ defaultContentLanguageInSubdir = false
       tagline = "Ingénieur produit IA full stack chez Fireraven. Guardrails, conformité et agents LLM sécurisés."
       hero_description = "Ingénieur produit IA full stack chez Fireraven : nous aidons les entreprises à déployer des agents LLM avec sécurité, audit et contrôles pilotés par les politiques—des guardrails no-code à l'exécution en runtime et au red teaming. Je relie les priorités produit à l'ingénierie des systèmes IA pour une adoption sûre et à l'échelle."
       hero_location = "Montréal, Canada"
-      resume_url = "/files/Felipe_Cordero_CV_French_version.pdf"
+      resume_url = "/files/Felipe_Cordero_CV_FRE.pdf"
       collab_tags = [
         "Sécurité et conformité des agents IA",
         "Guardrails et conception de politiques",
@@ -82,8 +82,8 @@ calendly_height = "700px"
 copyright = "Felipe Cordero"
 
 
-resume_url_en = "/files/Felipe_Cordero_CV_English_version.pdf"
-resume_url_fr = "/files/Felipe_Cordero_CV_French_version.pdf"
+resume_url_en = "/files/Felipe_Cordero_CV_ENG.pdf"
+resume_url_fr = "/files/Felipe_Cordero_CV_FRE.pdf"
 resume_label = "View CV"
 
 # Form and Pexels: set in config or config.local.toml. CI: HUGO_PARAMS_FORMSPREEENDPOINT, HUGO_PARAMS_PEXELSAPIKEY (no underscores)
