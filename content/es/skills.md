@@ -2,47 +2,41 @@
 title: "Habilidades"
 type: "homepage"
 intro: >-
-  Combinando más de 14 años de experiencia en ingeniería estructural con desarrollo de software moderno y expandiendo capacidades en IA/ML.
+  Ingeniería de producto para agentes de IA: diseño de seguridad y cumplimiento para LLM, entrega full stack y colaboración clara con producto, seguridad y clientes.
 
 domains:
-  - icon: "code"
-    title: "Desarrollo de Software"
-    description: "Construcción de soluciones de software de ingeniería escalables con Python y frameworks modernos, con foco en análisis en tiempo real y automatización."
-    devicon_class: "devicon-python-plain colored"
-
   - icon: "brain"
-    title: "Inteligencia Artificial"
-    description: "Ampliando experiencia en soluciones basadas en LLM y modelos de ML para aplicaciones de ingeniería, con énfasis en herramientas de compliance y analítica predictiva."
+    title: "IA e ingeniería de producto"
+    description: "Agentes LLM, diseño de prompts y políticas, guardrails, enforcement en runtime, mentalidad de red teaming, seguridad en IA, diseño de producto orientado al cumplimiento y definición de alcance con PMs y clientes."
     devicon_class: "devicon-tensorflow-original colored"
 
-  - icon: "chart-line"
-    title: "Ciencia de Datos"
-    description: "Transformación de datos complejos en insights accionables mediante análisis estadístico, visualización y técnicas de aprendizaje automático."
-    devicon_class: "devicon-pandas-plain colored"
+  - icon: "code"
+    title: "Ingeniería full stack en IA"
+    description: "Python, FastAPI, Next.js/TypeScript, patrones de agentes y RAG, PostgreSQL y Supabase, pruebas, observabilidad, GCP y despliegue moderno—un conjunto integrado para entregar funcionalidades fiables."
+    devicon_class: "devicon-python-plain colored"
+
+  - icon: "lock"
+    title: "Producto y pensamiento de seguridad"
+    description: "Descubrimiento de requisitos, encuadre de riesgos, controles de seguridad, auditabilidad y trabajo con marcos regulatorios y de cumplimiento—priorizados en roadmaps y funcionalidades entregadas."
+    devicon_class: "devicon-react-original colored"
 
   - icon: "tools"
-    title: "Experiencia en Ingeniería"
-    description: "Aplicación de conocimiento en ingeniería estructural con tecnología moderna para crear soluciones innovadoras a desafíos complejos."
+    title: "Ingeniería estructural y AEC"
+    description: "Base sólida en diseño estructural, BIM y tecnología en construcción—para anclar decisiones de producto en cómo se comportan sistemas físicos y organizacionales complejos."
     devicon_class: "devicon-docker-plain colored"
 
   - icon: "users"
-    title: "Liderazgo y Gestión de Proyectos"
-    description: "Liderazgo de equipos multidisciplinarios en I+D y desarrollo de software, gestionando proyectos complejos de hasta 20.000 m² y coordinando iniciativas."
+    title: "Colaboración y liderazgo"
+    description: "Entrega ágil con equipos distribuidos; liderazgo de I+D y trabajo transversal desde el descubrimiento hasta el release."
     devicon_class: "devicon-github-original colored"
 
-  - icon: "lightbulb"
-    title: "Negocios y Estrategia"
-    description: "Desarrollo de estrategias de innovación y preparación de documentación para soluciones tecnológicas, incluyendo propuestas de inversión superiores a $500K USD."
-    devicon_class: "devicon-react-original colored"
-
   - icon: "globe"
-    title: "Experiencia Internacional"
-    description: "Hablante nativo de español con inglés profesional completo y francés intermedio, facilitando comunicación efectiva en contextos internacionales."
+    title: "Idiomas e internacional"
+    description: "Español nativo; inglés y francés para contextos de producto y clientes internacionales."
     devicon_class: "devicon-html5-plain colored"
 
   - icon: "hands-helping"
-    title: "Comunidad y Aprendizaje"
-    description: "Participación activa en voluntariado y desarrollo profesional, incluyendo evaluación estructural para ayuda en desastres y programas de bienvenida estudiantil. Becario de Excelencia Académica en Collège LaSalle Montréal."
+    title: "Comunidad y aprendizaje"
+    description: "Voluntariado y formación continua, incluida la Beca de Excelencia Académica en Collège LaSalle Montréal."
     devicon_class: "devicon-javascript-plain colored"
 ---
-

@@ -2,7 +2,7 @@
 title: "Experience"
 type: "homepage"
 intro: >-
-  From structural engineering to AI development, building practical tools that bridge traditional engineering with modern technology.
+  From structural engineering to AI product engineering: building tools and platforms that connect technical depth with product and business outcomes.
 
 resume_downloads:
   - lang: en
@@ -13,17 +13,17 @@ resume_downloads:
 positions:
   - company: "Fireraven"
     company_url: "https://fireraven.ai"
-    role: "AI and Full Stack Developer"
+    role: "Full-Stack AI Product Engineer"
     period: "May 2025 - Present"
     industry: "AI Security & Compliance"
     location: "Montreal - Canada"
-    company_description: "Leading provider of security and compliance solutions for LLM-based AI agents and assistants"
+    company_description: "Security and compliance tooling for LLM-based AI agents—guardrails, runtime enforcement, red-teaming, auditing, and policy-driven behavior for enterprises."
     bullet_points:
-      - "Design and develop scalable full-stack solutions using Python (FastAPI, NestJS) and React (Next.js, TypeScript) for LLM-based security and compliance platforms, ensuring 50/50 split between backend and frontend development"
-      - "Implement and optimize PostgreSQL database schemas, queries, and data pipelines, handling complex relationships and ensuring regulatory compliance for financial-grade applications"
-      - "Apply OOP principles and design patterns (DRY, YAGNI, SOLID) to refactor legacy code, improve code maintainability, and reduce technical debt across multiple repositories"
-      - "Collaborate with global distributed teams in Agile Scrum environment, participating in daily stand-ups, sprint planning, retrospectives, and cross-functional code reviews"
-      - "Debug, troubleshoot, and optimize code to ensure platform reliability and contribute to real-time deployment and monitoring for regulatory compliance"
+      - "Own AI security and compliance features end to end: discovery with product managers, security, compliance, and customers; prioritization, scope, and delivery."
+      - "Design and implement guardrails, policy-driven behavior, and runtime controls for LLM agents, surfaced through APIs and internal or customer-facing tooling."
+      - "Partner with security and compliance stakeholders to translate regulatory and risk requirements into concrete product behavior, audit trails, and operational workflows."
+      - "Build across the stack with Python (FastAPI), Next.js/TypeScript, and PostgreSQL—emphasizing reliable, observable systems for enterprise adoption."
+      - "Help customers deploy AI agents more safely: reducing risk and friction so teams can scale agent use with confidence."
 
   - company: "ObraLink"
     company_url: "https://obralink.com"
@@ -33,9 +33,9 @@ positions:
     location: "Remote"
     company_description: "Innovative construction technology company developing AI-powered structural analysis tools"
     bullet_points:
-      - "Led development of autonomous solutions for real-time structural analysis"
-      - "Created ML models for concrete demand estimation"
-      - "Authored innovation project reports seeking investments exceeding $500K USD"
+      - "Led technical initiatives tied to product and business goals, including innovation documentation for investment conversations exceeding $500K USD."
+      - "Delivered autonomous structural analysis and ML-based concrete estimation that shortened engineering workflows and changed how teams produced deliverables."
+      - "Translated ambiguous engineering needs into architecture, implementation, and iterative releases."
 
   - company: "Tensacon"
     company_url: "https://tensacon.cl"
@@ -45,9 +45,9 @@ positions:
     location: "Chile"
     company_description: "Specialized in prefabricated construction solutions and BIM implementation"
     bullet_points:
-      - "Led BIM team to enhance quality and productivity, delivering multiple Fast Track projects"
-      - "Designed solutions for major prefabricated projects, including CODELCO facilities and Pan American Games venues"
-      - "Developed automated workflows reducing design time by 40%"
+      - "Led BIM and prefabrication delivery on major projects, including CODELCO facilities and Pan American Games venues, enhancing quality and throughput on Fast Track work."
+      - "Drove workflow automation that reduced design time by 40% on critical paths."
+      - "Connected field and design constraints to executable solutions for large prefabricated builds."
 
   - company: "Sirve Engineering"
     company_url: "https://sirve.cl"
@@ -57,9 +57,9 @@ positions:
     location: "Chile"
     company_description: "Engineering firm specializing in high-rise residential and commercial structures"
     bullet_points:
-      - "Directed R&D for software tools, reducing initial engineering and structure sizing time by 75%"
-      - "Managed multiple high-rise residential and commercial complexes (~20,000 m² each)"
-      - "Implemented parametric modeling for complex geometries"
+      - "Owned R&D for internal software tools, reducing initial engineering and structure sizing time by 75%."
+      - "Delivered multiple high-rise residential and commercial complexes (~20,000 m² each) with clear technical ownership."
+      - "Implemented parametric modeling for complex geometries, linking structural performance to delivery timelines."
 
   - company: "Various Engineering Firms"
     role: "Structural Engineer"

@@ -3,25 +3,25 @@ title: "Sobre mí"
 type: "homepage"
 featured_image: "/images/felipe-cordero-profile.jpeg"
 intro: >-
-  ¡Hola! Soy Felipe Cordero, **ingeniero estructural, IA y desarrollador full stack** 🏗️🤖💻 con **más de 14 años** en AEC y desarrollo de software. Mi camino me llevó de **Chile a Montréal**, donde combino la ingeniería tradicional con tecnología moderna para resolver problemas complejos. Actualmente en <a href="https://fireraven.ai" target="_blank" rel="noopener noreferrer"><strong>Fireraven</strong></a>, desarrollo soluciones de seguridad y cumplimiento para agentes de IA basados en LLM. Recientemente fui reconocido con la **Beca de Excelencia Académica** (Air Canada, Collège LaSalle Montréal, 2025) 🏆 por mis logros en IA/ML.
+  **Ingeniero de producto técnico en IA**—convierto objetivos de seguridad, cumplimiento y producto en software real para agentes LLM. Empecé en **ingeniería estructural** en Chile, pasé al **software y la automatización** en construcción y BIM, y luego a **IA/ML y productos basados en LLM**. Hoy soy **ingeniero de producto IA full stack** en <a href="https://fireraven.ai" target="_blank" rel="noopener noreferrer"><strong>Fireraven</strong></a>, enfocado en seguridad y cumplimiento de agentes de IA: alcance con producto y clientes, diseño de políticas y guardrails, y entrega de APIs e interfaces: no un rol genérico de backend. He liderado trabajo complejo y multidisciplinario de I+D a entrega, incluida la **Beca de Excelencia Académica** (Air Canada, Collège LaSalle Montréal, 2025) en estudios de IA/ML.
 
 study: >-
-  Actualmente, desde **Montréal** 🇨🇦, profundizo en **Inteligencia Artificial y Aprendizaje Automático** 🤖 en **Collège LaSalle**. Trabajo con **Python** 🐍, **PyTorch** y **modelamiento predictivo** 📊 para construir sistemas inteligentes que conecten la ingeniería con la ciencia de datos.
+  Desde **Montréal**, sigo profundizando en **IA y aprendizaje automático** en **Collège LaSalle** (Python, PyTorch, modelado predictivo), complementando mi trabajo diario en **agentes LLM, guardrails y entrega de producto** en Fireraven.
 
-passion_title: "Lo que me apasiona"
+passion_title: "En qué me enfoco"
 passion_text: >-
-  Me apasiona aprender y aplicar **IA a desafíos reales de ingeniería** 🔬. En <a href="https://fireraven.ai" target="_blank" rel="noopener noreferrer"><strong>Fireraven</strong></a>, desarrollo **plataformas multiusuario full-stack** integrando **agentes de IA y sistemas RAG**, mientras construyo **soluciones de ciberseguridad de vanguardia** para chatbots empresariales 🛡️. Participo activamente en **eventos de la industria IA** e impulso el **desarrollo estratégico de negocios** mediante adquisición de clientes y alianzas 🤝. Anteriormente en <a href="https://obralink.com" target="_blank" rel="noopener noreferrer"><strong>ObraLink</strong></a>, lideré el desarrollo de **herramientas autónomas de análisis estructural** y **modelos de ML** para estimación de hormigón 🏢. Mi objetivo es crear **soluciones innovadoras** con impacto real en el entorno construido.
+  Trabajo como **ingeniero de producto** uniendo **visión de producto** e **ingeniería de sistemas de IA**. Diseño e implemento **funcionalidades centradas en IA** que equilibran seguridad, cumplimiento y experiencia de usuario—para que las organizaciones adopten **agentes LLM** de forma **segura, auditable y alineada con el negocio**. En <a href="https://fireraven.ai" target="_blank" rel="noopener noreferrer"><strong>Fireraven</strong></a> colaboro con producto, seguridad y clientes en guardrails, políticas y controles en runtime, construyendo con **Python (FastAPI)**, **Next.js/TypeScript** y **PostgreSQL** en equipos ágiles distribuidos. Antes en <a href="https://obralink.com" target="_blank" rel="noopener noreferrer"><strong>ObraLink</strong></a> lideré **análisis estructural autónomo** y **ML** para estimación de hormigón—traduciendo necesidades de ingeniería en producto entregado.
 
 mix: >-
-  Con experiencia tanto en **ingeniería estructural** 🏗️ como en **desarrollo de software** 💻, aporto una **perspectiva única** a los desafíos técnicos. He liderado equipos construyendo desde **estructuras físicas hasta sistemas de software escalables**, siempre con foco en **soluciones prácticas y eficientes** ⚡. Mi **trayectoria internacional** y compromiso con el **aprendizaje continuo** me impulsan a tender puentes entre disciplinas y entregar valor en distintas industrias.
+  Mi trayectoria desde **ingeniería estructural** hasta **ingeniería de producto IA** conecta **pensamiento de sistemas** con **entrega de software**: de estructuras físicas y BIM a **IA gobernada por políticas** y herramientas empresariales. Priorizo **resultados concretos**: requisitos claros, impacto medible y sistemas fiables.
 
 personal: >-
-  Fuera del trabajo, disfruto el **tenis** 🎾, la **cocina** 👨‍🍳, la **batería** 🥁, la **natación** 🏊‍♂️ y la **fotografía** 📸. También **voluntario en LaSalle College**, apoyando a estudiantes nuevos y a la comunidad académica 🤝.
+  Fuera del trabajo, disfruto el **tenis**, la **cocina**, la **batería**, la **natación** y la **fotografía**. También **hago voluntariado en LaSalle College**, apoyando a estudiantes nuevos y a la comunidad académica.
 
 quickfacts:
   - icon: "briefcase"
     title: "Rol actual"
-    value: "🏗️🤖💻 Ingeniero estructural, IA y desarrollador full stack en <a href=\"https://fireraven.ai\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Fireraven</strong></a>"
+    value: "Ingeniero de producto IA full stack en <a href=\"https://fireraven.ai\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Fireraven</strong></a>"
   - icon: "graduation-cap"
     title: "Educación"
     value: "🏗️ <a href=\"https://uchile.cl/\" target=\"_blank\" rel=\"noopener noreferrer\">Universidad de Chile</a>, **Ingeniería Civil**<br>🤖 <a href=\"https://lasallecollege.lcieducation.com/en\" target=\"_blank\" rel=\"noopener noreferrer\">Collège LaSalle Montréal</a>, **AEC: Inteligencia Artificial y Aprendizaje Automático**"
@@ -49,4 +49,3 @@ quickfacts:
       - ✈️ Viajar
       - 📚 Lectura
 ---
-

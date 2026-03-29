@@ -2,7 +2,7 @@
 title: "Tech Stack"
 type: "homepage"
 intro: >-
-  Technical expertise spanning software development, AI/ML, and engineering technologies.
+  Implementation toolkit supporting product-engineering work—languages, frameworks, data, AI/ML, and engineering software I use to ship features end to end.
 
 technical_groups:
   - title: "Programming Languages"

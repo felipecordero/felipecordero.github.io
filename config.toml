@@ -12,48 +12,48 @@ defaultContentLanguageInSubdir = false
     languageName = "English"
     weight = 1
     [languages.en.params]
-      tagline = "Engineer. Coder. Problem Solver."
-      hero_description = "Structural Engineer, AI and Full Stack Developer with 14+ years in Architecture, Engineering, and Construction (AEC). Currently building security and compliance solutions for LLM-based AI agents at Fireraven."
+      tagline = "Full-stack AI product engineer at Fireraven. Guardrails, compliance, and secure LLM agents."
+      hero_description = "Full-stack AI product engineer at Fireraven, where we help enterprises deploy LLM agents with security, auditing, and policy-driven controls—from no-code guardrails to runtime enforcement and red-teaming. I bridge product priorities with AI systems engineering so customers can adopt agents safely and at scale."
       hero_location = "Montréal, Canada"
       resume_url = "/files/Felipe_Cordero_CV_English_version.pdf"
       collab_tags = [
-        "Full Stack Development",
-        "AI Security & Compliance",
-        "LLM-based Solutions",
-        "PostgreSQL & Data Pipelines",
-        "Agile Scrum"
+        "AI agent security & compliance",
+        "Guardrails & policy design",
+        "Full-stack AI (Python / Next.js)",
+        "Product-engineering & requirements",
+        "Enterprise AI adoption"
       ]
   [languages.es]
     contentDir = "content/es"
     languageName = "Español"
     weight = 2
     [languages.es.params]
-      tagline = "Ingeniero. Desarrollador de Software. Solucionador de problemas."
-      hero_description = "Ingeniero estructural, IA y desarrollador full stack con más de 14 años en Arquitectura, Ingeniería y Construcción (AEC). Creando soluciones inteligentes y de seguridad para agentes de IA basados en LLM."
+      tagline = "Ingeniero de producto IA full stack en Fireraven. Guardrails, cumplimiento y agentes LLM seguros."
+      hero_description = "Ingeniero de producto IA full stack en Fireraven: ayudamos a las empresas a desplegar agentes LLM con seguridad, auditoría y controles basados en políticas—desde guardrails sin código hasta enforcement en tiempo de ejecución y red teaming. Conecto prioridades de producto con ingeniería de sistemas de IA para una adopción segura y a escala."
       hero_location = "Montreal, Canadá"
       resume_url = "/files/Felipe_Cordero_CV_English_version.pdf"
       collab_tags = [
-        "Soluciones de IA/ML",
-        "Software de Ingeniería",
-        "I+D e Innovación",
-        "Liderazgo Técnico",
-        "Tecnología en Construcción"
+        "Seguridad y cumplimiento de agentes IA",
+        "Guardrails y diseño de políticas",
+        "IA full stack (Python / Next.js)",
+        "Ingeniería de producto y requisitos",
+        "Adopción de IA empresarial"
       ]
   [languages.fr]
     contentDir = "content/fr"
     languageName = "Français"
     weight = 3
     [languages.fr.params]
-      tagline = "Ingénieur. Codeur. Résolveur de problèmes."
-      hero_description = "Ingénieur structure, IA et développeur full stack avec plus de 14 ans d'expérience en architecture, ingénierie et construction (AEC). Développement de solutions de sécurité et conformité pour agents IA basés sur LLM."
+      tagline = "Ingénieur produit IA full stack chez Fireraven. Guardrails, conformité et agents LLM sécurisés."
+      hero_description = "Ingénieur produit IA full stack chez Fireraven : nous aidons les entreprises à déployer des agents LLM avec sécurité, audit et contrôles pilotés par les politiques—des guardrails no-code à l'exécution en runtime et au red teaming. Je relie les priorités produit à l'ingénierie des systèmes IA pour une adoption sûre et à l'échelle."
       hero_location = "Montréal, Canada"
       resume_url = "/files/Felipe_Cordero_CV_French_version.pdf"
       collab_tags = [
-        "Solutions IA/ML",
-        "Logiciels d'ingénierie",
-        "R&D et Innovation",
-        "Leadership technique",
-        "Technologie de construction"
+        "Sécurité et conformité des agents IA",
+        "Guardrails et conception de politiques",
+        "IA full stack (Python / Next.js)",
+        "Ingénierie produit et exigences",
+        "Adoption de l'IA en entreprise"
       ]
 
 [build]
@@ -69,7 +69,7 @@ author = "Felipe Cordero"
 
 og_image = "images/felipecordero-og.png"
 
-description = "Structural Engineer, AI and Full Stack Developer. Building security and compliance solutions for LLM-based AI agents at Fireraven."
+description = "Full-stack AI product engineer at Fireraven. Building guardrails, security, and compliance tooling for LLM agents—bridging product vision with AI systems engineering."
 
 linkedin_url = "https://www.linkedin.com/in/felipe-cordero-osorio"
 linkedin_text = "linkedin.com/in/felipe-cordero-osorio"

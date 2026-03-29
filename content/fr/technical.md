@@ -2,7 +2,7 @@
 title: "Tech Stack"
 type: "homepage"
 intro: >-
-  Expertise technique couvrant le développement logiciel, l'IA/ML et les technologies d'ingénierie.
+  Boîte à outils d'implémentation au service de l'ingénierie produit : langages, frameworks, données, IA/ML et logiciels d'ingénierie pour livrer des fonctionnalités de bout en bout.
 
 technical_groups:
   - title: "Langages de programmation"
