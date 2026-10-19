@@ -2,7 +2,7 @@
 title: "Experience"
 type: "homepage"
 intro: >-
-  From structural engineering to AI product engineering: building tools and platforms that connect technical depth with product and business outcomes.
+  From structural engineering to tech leadership in AI: building tools and platforms that connect technical depth with product and business outcomes.
 
 resume_downloads:
   - lang: en
@@ -13,17 +13,23 @@ resume_downloads:
 positions:
   - company: "Fireraven"
     company_url: "https://fireraven.ai"
-    role: "Full-Stack AI Product Engineer"
     period: "May 2025 - Present"
     industry: "AI Security & Compliance"
     location: "Montreal - Canada"
-    company_description: "Security and compliance tooling for LLM-based AI agents—guardrails, runtime enforcement, red-teaming, auditing, and policy-driven behavior for enterprises."
-    bullet_points:
-      - "Own AI security and compliance features end to end: discovery with product managers, security, compliance, and customers; prioritization, scope, and delivery."
-      - "Design and implement guardrails, policy-driven behavior, and runtime controls for LLM agents, surfaced through APIs and internal or customer-facing tooling."
-      - "Partner with security and compliance stakeholders to translate regulatory and risk requirements into concrete product behavior, audit trails, and operational workflows."
-      - "Build across the stack with Python (FastAPI), Next.js/TypeScript, and PostgreSQL—emphasizing reliable, observable systems for enterprise adoption."
-      - "Help customers deploy AI agents more safely: reducing risk and friction so teams can scale agent use with confidence."
+    company_description: "FireGuard and RedRaven: real-time policy enforcement, red-teaming, and auditor-ready compliance for enterprise AI agents."
+    roles:
+      - title: "Head of Technology"
+        period: "Sept 2026 - Present"
+        bullet_points:
+          - "Own technology direction for FireGuard and RedRaven: architecture, roadmap, and delivery priorities with CEO and product."
+          - "Lead end-to-end delivery of AI agent security and compliance: policies, runtime controls, and the pentest/compliance loop."
+          - "Set the engineering bar for reliability, latency, observability, and auditor-ready evidence while staying hands-on (Python/FastAPI, Next.js/TypeScript, PostgreSQL)."
+      - title: "Full-Stack AI Product Engineer"
+        period: "May 2025 - Sept 2026"
+        bullet_points:
+          - "Own AI security and compliance features end to end with product, security, compliance, and customers."
+          - "Design and implement guardrails, policy-driven behavior, and runtime controls for LLM agents (APIs and tooling)."
+          - "Translate regulatory and risk requirements into product behavior, audit trails, and safer enterprise agent adoption."
 
   - company: "ObraLink"
     company_url: "https://obralink.com"

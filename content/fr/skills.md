@@ -2,7 +2,7 @@
 title: "Compétences"
 type: "homepage"
 intro: >-
-  Ingénierie produit pour agents IA : conception sécurité et conformité LLM, livraison full stack et collaboration claire avec produit, sécurité et clients.
+  Leadership technologique pour plateformes de sécurité d'agents IA : conception sécurité et conformité LLM, livraison full stack et collaboration claire avec produit, sécurité et clients.
 
 domains:
   - icon: "brain"
@@ -12,22 +12,22 @@ domains:
 
   - icon: "code"
     title: "Ingénierie full stack IA"
-    description: "Python, FastAPI, Next.js/TypeScript, agents et RAG, PostgreSQL et Supabase, tests, observabilité, GCP et déploiement moderne—boîte à outils intégrée pour livrer des fonctionnalités fiables."
+    description: "Python, FastAPI, Next.js/TypeScript, agents et RAG, PostgreSQL et Supabase, tests, observabilité, GCP et déploiement moderne : boîte à outils intégrée pour livrer des fonctionnalités fiables."
     devicon_class: "devicon-python-plain colored"
 
   - icon: "lock"
     title: "Produit et culture sécurité"
-    description: "Découverte d'exigences, cadrage des risques, contrôles de sécurité, auditabilité, travail avec cadres réglementaires et de conformité—transformés en roadmaps et fonctionnalités livrées."
+    description: "Découverte d'exigences, cadrage des risques, contrôles de sécurité, auditabilité, travail avec cadres réglementaires et de conformité, transformés en roadmaps et fonctionnalités livrées."
     devicon_class: "devicon-react-original colored"
 
   - icon: "tools"
     title: "Ingénierie structurelle et AEC"
-    description: "Solide ancrage en conception structurelle, BIM et technologie construction—pour ancrer les décisions produit dans le comportement de systèmes physiques et organisationnels complexes."
+    description: "Solide ancrage en conception structurelle, BIM et technologie construction, pour ancrer les décisions produit dans le comportement de systèmes physiques et organisationnels complexes."
     devicon_class: "devicon-docker-plain colored"
 
   - icon: "users"
     title: "Collaboration et leadership"
-    description: "Livraison agile avec équipes distribuées ; pilotage R&D et travail transversal de la découverte au release."
+    description: "Directeur de la technologie chez Fireraven : pilotage de la livraison technique de FireGuard et RedRaven ; travail agile avec équipes distribuées de la découverte au release."
     devicon_class: "devicon-github-original colored"
 
   - icon: "globe"

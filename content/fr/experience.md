@@ -2,7 +2,7 @@
 title: "Expérience"
 type: "homepage"
 intro: >-
-  De l'ingénierie structurelle à l'ingénierie produit IA : plateformes et outils qui relient la profondeur technique aux résultats produit et business.
+  De l'ingénierie structurelle au leadership technologique en IA : plateformes et outils qui relient la profondeur technique aux résultats produit et business.
 
 resume_downloads:
   - lang: en
@@ -13,17 +13,23 @@ resume_downloads:
 positions:
   - company: "Fireraven"
     company_url: "https://fireraven.ai"
-    role: "Ingénieur produit IA full stack"
     period: "Mai 2025 - Présent"
     industry: "Sécurité et conformité IA"
     location: "Montréal - Canada"
-    company_description: "Outils de sécurité et conformité pour agents IA basés sur LLM : guardrails, exécution runtime, red teaming, audit et comportement piloté par les politiques pour les entreprises."
-    bullet_points:
-      - "Responsabilité de bout en bout des fonctionnalités sécurité et conformité : découverte avec produit, sécurité, conformité et clients ; priorisation, périmètre et livraison."
-      - "Conception et mise en œuvre de guardrails, comportements pilotés par les politiques et contrôles runtime pour agents LLM, exposés via APIs et outils internes ou clients."
-      - "Partenariat avec sécurité et conformité pour traduire exigences réglementaires et risques en comportement produit, pistes d'audit et flux opérationnels."
-      - "Développement full stack avec Python (FastAPI), Next.js/TypeScript et PostgreSQL, en privilégiant des systèmes observables et fiables pour l'adoption entreprise."
-      - "J'aide les clients à déployer des agents IA plus sûrement—réduire risques et frictions pour faire monter en charge l'usage des agents en confiance."
+    company_description: "FireGuard et RedRaven : enforcement de politiques en temps réel, red teaming et conformité prête pour l'audit pour agents IA en entreprise."
+    roles:
+      - title: "Directeur de la technologie"
+        period: "Septembre 2026 - Présent"
+        bullet_points:
+          - "Porter la direction technologique de FireGuard et RedRaven : architecture, roadmap et priorités de livraison avec le CEO et le produit."
+          - "Diriger la livraison de bout en bout de la sécurité et conformité agents IA : politiques, contrôles runtime et boucle pentest/conformité."
+          - "Fixer le niveau d'exigence ingénierie (fiabilité, latence, observabilité, preuves audit-ready) en restant hands-on (Python/FastAPI, Next.js/TypeScript, PostgreSQL)."
+      - title: "Ingénieur produit IA full stack"
+        period: "Mai 2025 - Septembre 2026"
+        bullet_points:
+          - "Responsabilité de bout en bout des fonctionnalités sécurité et conformité avec produit, sécurité, conformité et clients."
+          - "Conception et mise en œuvre de guardrails, comportements pilotés par les politiques et contrôles runtime pour agents LLM (APIs et outils)."
+          - "Traduire exigences réglementaires et risques en comportement produit, pistes d'audit et adoption entreprise plus sûre des agents."
 
   - company: "ObraLink"
     company_url: "https://obralink.com"

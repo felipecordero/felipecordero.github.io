@@ -2,7 +2,7 @@
 title: "Skills"
 type: "homepage"
 intro: >-
-  Product-engineering for AI agents: LLM security and compliance design, full-stack delivery, and clear collaboration across product, security, and customers.
+  Tech leadership for AI agent security platforms: LLM security and compliance design, full-stack delivery, and clear collaboration across product, security, and customers.
 
 domains:
   - icon: "brain"
@@ -12,22 +12,22 @@ domains:
 
   - icon: "code"
     title: "Full-Stack AI Engineering"
-    description: "Python, FastAPI, Next.js/TypeScript, agents and RAG patterns, PostgreSQL and Supabase, testing, observability, GCP and modern deployment—an integrated toolkit for shipping reliable features."
+    description: "Python, FastAPI, Next.js/TypeScript, agents and RAG patterns, PostgreSQL and Supabase, testing, observability, GCP and modern deployment: an integrated toolkit for shipping reliable features."
     devicon_class: "devicon-python-plain colored"
 
   - icon: "lock"
     title: "Product & Security Thinking"
-    description: "Requirements discovery, risk framing, security controls, auditability, and working with regulatory and compliance constraints—turning them into prioritized roadmaps and shipped features."
+    description: "Requirements discovery, risk framing, security controls, auditability, and working with regulatory and compliance constraints, turning them into prioritized roadmaps and shipped features."
     devicon_class: "devicon-react-original colored"
 
   - icon: "tools"
     title: "Structural Engineering & AEC"
-    description: "Deep background in structural design, BIM, and construction technology—grounding product decisions in how complex physical and organizational systems actually behave."
+    description: "Deep background in structural design, BIM, and construction technology, grounding product decisions in how complex physical and organizational systems actually behave."
     devicon_class: "devicon-docker-plain colored"
 
   - icon: "users"
     title: "Collaboration & Leadership"
-    description: "Agile delivery with global distributed teams; leading R&D and cross-functional work from discovery through release."
+    description: "Head of Technology at Fireraven: leading tech delivery for FireGuard and RedRaven; agile work with global distributed teams from discovery through release."
     devicon_class: "devicon-github-original colored"
 
   - icon: "globe"
