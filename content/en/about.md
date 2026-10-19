@@ -1,7 +1,7 @@
 ---
 title: "About"
 type: "homepage"
-featured_image: "/images/felipe-cordero-profile.jpeg"
+featured_image: "/images/felipe-cordero-profile.jpg"
 intro: >-
   **Technical product engineer in AI**—turning security, compliance, and product goals into shipped software for LLM agents. I started in **structural engineering** in Chile, moved into **software and automation** in construction and BIM, then into **AI/ML and LLM-based products**. Today I'm a **full-stack AI product engineer** at <a href="https://fireraven.ai" target="_blank" rel="noopener noreferrer"><strong>Fireraven</strong></a>, focused on AI agent security and compliance: scoping with product and customers, designing policies and guardrails, and shipping APIs and UIs teams rely on—not a generic backend role. I've led complex, cross-disciplinary work from R&D through delivery, including the **Academic Excellence Scholarship** (Air Canada, Collège LaSalle Montréal, 2025) for AI/ML studies.
 

@@ -1,7 +1,7 @@
 ---
 title: "À propos"
 type: "homepage"
-featured_image: "/images/felipe-cordero-profile.jpeg"
+featured_image: "/images/felipe-cordero-profile.jpg"
 intro: >-
   **Ingénieur produit technique en IA**—je transforme objectifs de sécurité, conformité et produit en logiciel déployé pour agents LLM. J'ai commencé en **ingénierie structurelle** au Chili, puis **logiciel et automatisation** dans la construction et le BIM, puis **IA/ML et produits LLM**. Aujourd'hui je suis **ingénieur produit IA full stack** chez <a href="https://fireraven.ai" target="_blank" rel="noopener noreferrer"><strong>Fireraven</strong></a>, centré sur la sécurité et la conformité des agents IA : cadrage avec le produit et les clients, conception de politiques et guardrails, livraison d'APIs et d'interfaces—pas un rôle backend générique. J'ai piloté des travaux complexes et multidisciplinaires de la R&D à la livraison, dont la **Bourse d'excellence académique** (Air Canada, Collège LaSalle Montréal, 2025) en études IA/ML.
 
