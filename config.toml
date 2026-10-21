@@ -12,7 +12,7 @@ defaultContentLanguageInSubdir = false
     languageName = "English"
     weight = 1
     [languages.en.params]
-      tagline = "Head of Technology at Fireraven. Secure, compliant AI agents for the enterprise."
+      tagline = "Head of Technology at Fireraven. Securing every AI agent."
       hero_description = "Head of Technology at Fireraven: hands-on tech leadership for FireGuard and RedRaven, with real-time policy enforcement, red-teaming, and auditor-ready compliance for LLM agents. I bridge CEO and product vision with AI systems engineering so enterprises can adopt agents safely and at scale."
       hero_location = "Montréal, Canada"
       resume_url = "/files/Felipe_Cordero_CV_ENG.pdf"
@@ -28,7 +28,7 @@ defaultContentLanguageInSubdir = false
     languageName = "Español"
     weight = 2
     [languages.es.params]
-      tagline = "Head of Technology en Fireraven. Agentes de IA seguros y conformes para la empresa."
+      tagline = "Head of Technology en Fireraven. Asegurando cada agente de IA."
       hero_description = "Head of Technology en Fireraven: liderazgo técnico hands-on de FireGuard y RedRaven, con enforcement de políticas en tiempo real, red teaming y cumplimiento listo para auditoría para agentes LLM. Conecto la visión del CEO y del producto con la ingeniería de sistemas de IA para una adopción empresarial segura y a escala."
       hero_location = "Montreal, Canadá"
       resume_url = "/files/Felipe_Cordero_CV_ENG.pdf"
@@ -44,7 +44,7 @@ defaultContentLanguageInSubdir = false
     languageName = "Français"
     weight = 3
     [languages.fr.params]
-      tagline = "Directeur de la technologie chez Fireraven. Agents IA sécurisés et conformes pour l'entreprise."
+      tagline = "Directeur de la technologie chez Fireraven. Sécuriser chaque agent IA."
       hero_description = "Directeur de la technologie chez Fireraven : leadership technique hands-on pour FireGuard et RedRaven, avec enforcement de politiques en temps réel, red teaming et conformité prête pour l'audit pour agents LLM. Je relie la vision du CEO et du produit à l'ingénierie des systèmes IA pour une adoption entreprise sûre et à l'échelle."
       hero_location = "Montréal, Canada"
       resume_url = "/files/Felipe_Cordero_CV_FRE.pdf"
