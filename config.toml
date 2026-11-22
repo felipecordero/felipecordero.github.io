@@ -86,9 +86,11 @@ resume_url_en = "/files/Felipe_Cordero_CV_ENG.pdf"
 resume_url_fr = "/files/Felipe_Cordero_CV_FRE.pdf"
 resume_label = "View CV"
 
-# Form and Pexels: set in config or config.local.toml. CI: HUGO_PARAMS_FORMSPREEENDPOINT, HUGO_PARAMS_PEXELSAPIKEY (no underscores)
+# Form, Pexels, YouVersion: set in config or config.local.toml.
+# CI: HUGO_PARAMS_FORMSPREEENDPOINT, HUGO_PARAMS_PEXELSAPIKEY, HUGO_PARAMS_YOUVERSIONAPPKEY (no underscores)
 formspreeendpoint = ""
 pexelsapikey = ""
+youversionappkey = ""
 
 [[params.social]]
 icon = "linkedin-in"
@@ -184,6 +186,15 @@ sectionPagesMenu = 'main'
 
 
 
+
+# YouVersion / bible.com verse of the day (App Key in params above)
+# Use only Bibles licensed to your App Key (GET /v1/bibles?language_ranges[]=…).
+# Defaults: BSB 3034 (en), Versión Biblia Libre 3291 (es), Louis Segond 93 (fr)
+[params.youversion]
+  [params.youversion.bible_ids]
+    en = 3034
+    es = 3291
+    fr = 93
 
 # Pexels hero backgrounds (queries only; API key in params above)
 [params.pexels]

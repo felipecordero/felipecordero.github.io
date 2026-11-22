@@ -46,15 +46,19 @@ This command runs `hugo server -D`, which starts a local server and includes dra
 
 The site will be available at `http://localhost:1313`
 
-For the contact form and Pexels hero backgrounds to work locally, create a `config.local.toml` (gitignored) in the project root:
+For the contact form, Pexels hero backgrounds, and the Bible.com verse of the day to work locally, create a `config.local.toml` (gitignored) in the project root:
 
 ```toml
 [params]
   pexelsapikey = "your_pexels_api_key"
   formspreeendpoint = "https://formspree.io/f/your_form_id"
+  # Free App Key from https://platform.youversion.com/
+  youversionappkey = "your_youversion_app_key"
 ```
 
 Run with `hugo server --config config.toml,config.local.toml` (or use `./dev.sh` if it merges both).
+
+Without `youversionappkey`, the hero verse block stays hidden.
 
 ## 🏗️ Building
 
@@ -81,7 +85,7 @@ Note: The CSS build step is necessary because the site uses Tailwind CSS, which 
 
 ### Deploying
 
-For the contact form and Pexels backgrounds, set at build time: `HUGO_PARAMS_PEXELSAPIKEY`, `HUGO_PARAMS_FORMSPREEENDPOINT` (no underscores in the param name).
+For the contact form, Pexels backgrounds, and verse of the day, set at build time: `HUGO_PARAMS_PEXELSAPIKEY`, `HUGO_PARAMS_FORMSPREEENDPOINT`, `HUGO_PARAMS_YOUVERSIONAPPKEY` (no underscores in the param name).
 
 ## 📁 Project Structure
 

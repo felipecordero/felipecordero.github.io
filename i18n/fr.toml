@@ -58,6 +58,9 @@ other = "Bonjour, je suis"
 [viewCV]
 other = "Voir le CV"
 
+[votdReadFull]
+other = "Lire sur Bible.com"
+
 [downloadResume]
 other = "Télécharger le CV"
 

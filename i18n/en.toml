@@ -105,6 +105,9 @@ other = "Hello, I'm"
 [viewCV]
 other = "View CV"
 
+[votdReadFull]
+other = "Read on Bible.com"
+
 [downloadResume]
 other = "Download Resume"
 
